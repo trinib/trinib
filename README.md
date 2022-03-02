@@ -80,7 +80,8 @@ https://github.com/anuraghazra/github-readme-stats-->
 <!--ACTIVITYGRAPH
 WEBSITE:
 https://github.com/Ashutosh00710/github-readme-activity-graph#customization-->
-![Github Activity Graph](https://intense-river-40395.herokuapp.com/graph?username=trinib&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e)
+<p align="center">
+<img src="https://intense-river-40395.herokuapp.com/graph?username=trinib&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e">
  
 <!--SNAKE
 WEBSITE:
@@ -139,12 +140,25 @@ https://github.com/antonkomarev/github-profile-views-counter-->
  
 ![](https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge)
 
-<h4>
+</h4>
 <!--TROPHY
 WEBSITE:
 https://github.com/ryo-ma/github-profile-trophy-->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+
+<!--METRICS
+WEBSITE:
+https://github.com/lowlighter/metrics-->
+<h3>
+<details><summary><b>𝓟𝓇𝑜𝒻𝒾𝓁𝑒 𝓜𝑒𝓉𝓇𝒾𝒸𝓈<img src="https://media.giphy.com/media/WT5h7PgVSScLLKtMaS/giphy.gif" width=50px height=40px></b></summary>
+<p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/github-metrics.svg">
+</p>
+</details>
+
+
 <!--LINE--> 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
@@ -159,9 +173,9 @@ https://fancytext.blogspot.com/-->
  
 ╚═════ &nbsp;𝐈𝐓'𝐒 [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) 𝐈𝐍 𝐇𝐄𝐑𝐄...
 <h4> 
+ 
+ 
 <!--
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rletc6ayb3llkoe9jvefv3m3h&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)</p></h1>
-
 **trinib/trinib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
