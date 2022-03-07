@@ -122,15 +122,15 @@
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 <!--VIEWS / WEBSITE:https://github.com/antonkomarev/github-profile-views-counter -->
-<h4 align="center" 
-![](https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
 </h4>
 <!--TROPHY / WEBSITE:https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
 <!--METRICS / WEBSITE:https://github.com/lowlighter/metrics -->
 <h4 align="right">
-<details><summary><b><img src="https://media.giphy.com/media/WT5h7PgVSScLLKtMaS/giphy.gif" width=50px height=40px>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/WT5h7PgVSScLLKtMaS/giphy.gif" width=50px height=40px></b></summary>
+<details><summary><b><img src="https://media.giphy.com/media/WT5h7PgVSScLLKtMaS/giphy.gif" width=50px height=40px>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢</b></summary>
 <p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/github-metrics.svg">
