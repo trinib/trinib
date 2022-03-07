@@ -1,20 +1,14 @@
-<!--HELLO EVERYBODY
-WEBSITE:
-https://readme-typing-svg.herokuapp.com/demo/-->
+<!--HELLO EVERYBODY / WEBSITE:https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2379A500&size=40&duration=3000&center=true&lines=Hello+Everybody">
 <!--GUMP-->
 <p align="center">
 <img src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif">
 <!--LINE-->
-<p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 <!--ILOVEOPENSOURCE-->
-<p align="center">
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
-<!--SPOTIFY
-WEBSITE:
-https://github.com/kittinan/spotify-github-profile-->
+<!--SPOTIFY / WEBSITE:https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300">
 <!--PARROTSEMOJI--> 
@@ -24,16 +18,18 @@ https://github.com/kittinan/spotify-github-profile-->
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+<p align="center">
+<!--FUNCUSTOMIZING-->
+<img src="https://i.imgur.com/q6ygVcf.png" height="63" width="660">
+<!--TERMINAL / WEBSITES:https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="500" height="470">
 <!--LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
-<!--RSS
-TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT--> 
+<!--RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT--> 
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> 
-<!--ASCII
-WEBSITE:
-https://asciiart.website/-->
+<!--ASCII / WEBSITE:https://asciiart.website/ -->
 
 <h4 align="center"> 
 
@@ -64,35 +60,23 @@ https://asciiart.website/-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg">
 <!--LINE-->
-<p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-<!--STATS
-WEBSITE:
-https://github.com/anuraghazra/github-readme-stats-->
+<!--STATS / WEBSITE:https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=trinib&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D" >
-<!--LANGUAGES
-WEBSITE:
-https://github.com/anuraghazra/github-readme-stats-->
+<!--LANGUAGES / WEBSITE:https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinib&layout=compact&theme=merko">
-
-<!--ACTIVITYGRAPH
-WEBSITE:
-https://github.com/Ashutosh00710/github-readme-activity-graph#customization-->
+<!--ACTIVITYGRAPH / WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization-->
 <p align="center">
-<img src="https://intense-river-40395.herokuapp.com/graph?username=trinib&theme=react-dark&custom_title=My%20Profile%20Contribution%20Graph&hide_border=true&color=00d668&line=00d668&point=8b007e">
- 
-<!--SNAKE
-WEBSITE:
-https://github.com/Platane/snk-->
+<img src="https://intense-river-40395.herokuapp.com/graph?username=trinib&theme=react-dark&custom_title=~%20~%20~%20My%20Profile%20Contribution%20Graph%20~%20~%20~&hide_border=true&color=00d668&line=00d668&point=8b007e">
+ <!--SNAKE / WEBSITE:https://github.com/Platane/snk-->
 <p align="center">
-🐍<img src="https://i.imgur.com/uyzXdOe.gif" width="200">🐍
+🐍&nbsp;<img src="https://i.imgur.com/uyzXdOe.gif" width="200">🐍
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg">
 <!--LINE-->
-<p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 <!--JOYEMOJI-->
 <p align="center">
@@ -118,7 +102,6 @@ https://github.com/Platane/snk-->
 <img src="https://i.imgur.com/mGhPUXI.gif" width="200">
 </a>
 <!--LINE-->
-<p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">  
 <!--CAT-->
 <p align="center">
@@ -138,38 +121,25 @@ https://github.com/Platane/snk-->
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
-<!--VIEWS
-WEBSITE:
-https://github.com/antonkomarev/github-profile-views-counter-->
-<h4 align="center"
- 
+<!--VIEWS / WEBSITE:https://github.com/antonkomarev/github-profile-views-counter -->
+<h4 align="center" 
 ![](https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge)
-
 </h4>
-<!--TROPHY
-WEBSITE:
-https://github.com/ryo-ma/github-profile-trophy-->
+<!--TROPHY / WEBSITE:https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
-
-<!--METRICS
-WEBSITE:
-https://github.com/lowlighter/metrics-->
-<h4>
-<details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/WT5h7PgVSScLLKtMaS/giphy.gif" width=50px height=40px></b></summary>
+<!--METRICS / WEBSITE:https://github.com/lowlighter/metrics -->
+<h4 align="right">
+<details><summary><b><img src="https://media.giphy.com/media/WT5h7PgVSScLLKtMaS/giphy.gif" width=50px height=40px>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/WT5h7PgVSScLLKtMaS/giphy.gif" width=50px height=40px></b></summary>
 <p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/github-metrics.svg">
 </p>
 </details>
-
-
 <!--LINE--> 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-<!--THEME
-WEBSITE:
-https://fancytext.blogspot.com/-->
+<!--THEME / WEBSITE:https://fancytext.blogspot.com/ -->
 <h4 align="left"> 
  
 ╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
