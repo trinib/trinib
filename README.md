@@ -66,7 +66,7 @@
 <img src="https://i.imgur.com/YCw47Dm.gif">
 <!--📊STATSGRAPH / WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=trinib&show_icons=true&theme=merko" width="40%"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D" width="40%">
+<img src="https://github-readme-stats.vercel.app/api?username=trinib&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 <!--📙LANGUAGES / WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinib&layout=compact&theme=merko">
