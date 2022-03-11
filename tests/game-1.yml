@@ -1,0 +1,210 @@
+name: First game on github.com/marcizhu/marcizhu
+owner: '@marcizhu'
+moves:
+  - author: '@marcizhu'
+    move: 'Chess: Start new game'
+
+  - author: '@raresica1234'
+    move: 'Chess: Move A2 to A4'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move B8 to C6'
+
+  - author: '@JeppeSRC'
+    move: 'Chess: Move H2 to H4'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move G8 to F6'
+
+  - author: '@JeppeSRC'
+    move: 'Chess: Move D2 to D3'
+
+  - author: '@LibertyAm'
+    move: 'Chess: Move E7 to E5'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move A1 to A3'
+
+  - author: '@LibertyAm'
+    move: 'Chess: Move F8 to B4'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move C2 to C3'
+
+  - author: '@LibertyAm'
+    move: 'Chess: Move D8 to E7'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move G1 to F3'
+
+  - author: '@LibertyAm'
+    move: 'Chess: Move D7 to D5'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move A3 to B3'
+
+  - author: '@Gaztin'
+    move: 'Chess: Move H7 to H6'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move D3 to D4'
+
+  - author: '@JeppeSRC'
+    move: 'Chess: Move B4 to C3'
+    is_capture: true
+
+  - author: '@marcizhu'
+    move: 'Chess: Move B3 to C3'
+    is_capture: true
+
+  - author: '@Gaztin'
+    move: 'Chess: Move H6 to H5'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move C3 to E3'
+
+  - author: '@LibertyAm'
+    move: 'Chess: Move C8 to F5'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move B1 to C3'
+
+  - author: '@DaniGmzGnz'
+    move: 'Chess: Move C6 to D4'
+    is_capture: true
+
+  - author: '@marcizhu'
+    move: 'Chess: Move F3 to D4'
+    is_capture: true
+
+  - author: '@LibertyAm'
+    move: 'Chess: Move E8 to C8'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move F2 to F4'
+
+  - author: '@LibertyAm'
+    move: 'Chess: Move G7 to G6'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move F4 to E5'
+    is_capture: true
+
+  - author: '@Anthony10700'
+    move: 'Chess: Move F6 to G4'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move E3 to F3'
+
+  - author: '@eric-unc'
+    move: 'Chess: Move H8 to H6'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move C1 to H6'
+    is_capture: true
+
+  - author: '@JeppeSRC'
+    move: 'Chess: Move G4 to E5'
+    is_capture: true
+
+  - author: '@marcizhu'
+    move: 'Chess: Move C3 to D5'
+    is_capture: true
+
+  - author: '@JeppeSRC'
+    move: 'Chess: Move A7 to A5'
+
+  - author: '@CescHolly'
+    move: 'Chess: Move D5 to E7'
+    is_capture: true
+
+  - author: '@marcizhu'
+    move: 'Chess: Move C8 to B8'
+
+  - author: '@marcizhu2'
+    move: 'Chess: Move F3 to E3'
+
+  - author: '@JeppeSRC'
+    move: 'Chess: Move B7 to B5'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move E3 to E5'
+    is_capture: true
+
+  - author: '@Jurymax99'
+    move: 'Chess: Move B8 to A8'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move E7 to C6'
+
+  - author: '@LibertyAm'
+    move: 'Chess: Move D8 to D4'
+    is_capture: true
+
+  - author: '@marcizhu'
+    move: 'Chess: Move D1 to D4'
+    is_capture: true
+
+  - author: '@LibertyAm'
+    move: 'Chess: Move A8 to B7'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move D4 to D7'
+
+  - author: '@LibertyAm'
+    move: 'Chess: Move F5 to D7'
+    is_capture: true
+
+  - author: '@marcizhu'
+    move: 'Chess: Move C6 to A5'
+    is_capture: true
+
+  - author: '@LibertyAm'
+    move: 'Chess: Move B7 to A6'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move H6 to D2'
+
+  - author: '@LibertyAm'
+    move: 'Chess: Move C7 to C6'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move E5 to E7'
+
+  - author: '@caili0825yl'
+    move: 'Chess: Move A6 to A7'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move E7 to D7'
+    is_capture: true
+
+  - author: '@maximyudayev'
+    move: 'Chess: Move A7 to B6'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move E2 to E4'
+
+  - author: '@maximyudayev'
+    move: 'Chess: Move B6 to C5'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move H1 to H3'
+
+  - author: '@maximyudayev'
+    move: 'Chess: Move F7 to F6'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move A5 to B3'
+
+  - author: '@Jurymax99'
+    move: 'Chess: Move C5 to B6'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move A4 to A5'
+
+  - author: '@Jurymax99'
+    move: 'Chess: Move B6 to A6'
+
+  - author: '@marcizhu'
+    move: 'Chess: Move B3 to C5'
+    is_winner: true

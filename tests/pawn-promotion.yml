@@ -1,0 +1,44 @@
+name: Pawn promotion to Queen with Checkmate (bxc8=Q#)
+owner: '@player1'
+moves:
+  - author: '@player1'
+    move: 'Chess: Start new game'
+
+  - author: '@player1'
+    move: 'Chess: Move E2 to E4' # e4
+
+  - author: '@player2'
+    move: 'Chess: Move D7 to D5' # d5
+
+  - author: '@player1'
+    move: 'Chess: Move E4 to D5' # exd5
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move G8 to F6' # Nf6
+
+  - author: '@player1'
+    move: 'Chess: Move F1 to B5' # Bb5+
+
+  - author: '@player2'
+    move: 'Chess: Move C7 to C6' # c6
+
+  - author: '@player1'
+    move: 'Chess: Move D5 to C6' # dxc6
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move D8 to B6' # Qb6
+
+  - author: '@player1'
+    move: 'Chess: Move C6 to B7' # cxb7+
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move B6 to B5' # Qxb5
+    is_capture: true
+
+  - author: '@player1'
+    move: 'Chess: Move B7 to C8' # bxc8=Q#
+    is_capture: true
+    is_winner: true

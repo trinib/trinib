@@ -1,0 +1,12 @@
+name: Two valid consecutive moves
+owner: '@player1'
+moves:
+  - author: '@player1'
+    move: 'Chess: Start new game'
+
+  - author: '@player2'
+    move: 'Chess: Move E2 to E4'
+
+  - author: '@player2'
+    move: 'Chess: Move E7 to E5'
+    is_consecutive: true

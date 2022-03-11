@@ -1,0 +1,68 @@
+comments:
+  # Message to be shown when two consecutive moves are played. {author} is the author of the issue
+  consecutive_moves: "Sorry {author}, you can't move twice in a row! You can ask someone to play the next turn :D"
+  
+  # Message to be shown on game over. {outcome} is a message that specifies wether white wins, black wins or
+  # both players draw, {num_moves} corresponds with the number of moves, {num_players} is the number of players
+  # in this game and finally {players} is a comma-separated list of all players in this game (in no particular
+  # order)
+  game_over: |-
+      And that's a game over! {outcome}! This game had {num_moves} moves made by {num_players} players.
+      
+      Thanks to {players} for participating!
+  
+  # This message is displayed if the board is in an invalid state. This shouldn't be shown unless something
+  # has gone terribly wrong
+  invalid_board: "{author} Sorry, I can't perform the specified move. The board is invalid!"
+  
+  # Message to be displayed when a player plays an invalid move
+  invalid_move: |-
+      {author} Whaaaat? The move `{move}` is invalid!
+      Maybe someone squeezed a move before you. Please try again.
+  
+  # Message displayed if a player tries to start a new game mid-game and the author of the issue is not the
+  # owner of the repository (the repo owner can always restart a game at any time)
+  invalid_new_game: "{author} Sorry, but you cannot start a new game while the old one is still in progress. Only the repo owner can do that."
+  
+  # Message displayed after a successful move done by a player. {move} is the move in UCI coordinates (e2e4 for example)
+  successful_move: |-
+      {author} done! Successfully played move `{move}` for current game.
+      Thanks for playing!
+  
+  # Message displayed when either a player or the repository owner start a new game
+  successful_new_game: "{author} done! New game successfully started!"
+  
+  # Error message shown after an invalid command to the chess bot
+  unknown_command: "{author} Sorry, I can't understand the command. Please try again and do not modify the issue title!"
+
+issues:
+  link: "https://github.com/{repo}/issues/new?{params}"
+  move:
+    body: "Please do not change the title. Just click \"Submit new issue\". You don't need to do anything else :D"
+    title: "Chess: Move {source} to {dest}"
+  new_game:
+    body: "Please do not change the title. Just click \"Submit new issue\". You don't need to do anything else :D"
+    title: "Chess: Start new game"
+
+markers:
+  board:
+    begin: "<!-- BEGIN CHESS BOARD -->\n"
+    end: "<!-- END CHESS BOARD -->\n"
+  last_moves:
+    begin: "<!-- BEGIN LAST MOVES -->\n"
+    end: "<!-- END LAST MOVES -->\n"
+  moves:
+    begin: "<!-- BEGIN MOVES LIST -->\n"
+    end: "<!-- END MOVES LIST -->\n"
+  top_moves:
+    begin: "<!-- BEGIN TOP MOVES -->\n"
+    end: "<!-- END TOP MOVES -->\n"
+  turn:
+    begin: "<!-- BEGIN TURN -->"
+    end: "<!-- END TURN -->"
+
+misc:
+  # Maximum number of last moves displayed
+  max_last_moves: 5
+  # Maximum number of top players displayed
+  max_top_moves: 10

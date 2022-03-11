@@ -1,0 +1,848 @@
+name: 'Stockfish vs AlphaZero (Draw, insufficient material)'
+owner: '@marcizhu'
+moves:
+  - author: '@marcizhu'
+    move: 'Chess: Start new game'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E2 to E4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E7 to E5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move G1 to F3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move B8 to C6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F1 to C4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F8 to C5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move B2 to B4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C5 to B4'
+    is_capture: true
+
+  - author: '@Stockfish'
+    move: 'Chess: Move C2 to C3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move B4 to A5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D2 to D4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move D7 to D6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D1 to B3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move D8 to D7'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move B1 to D2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E5 to D4'
+    is_capture: true
+
+  - author: '@Stockfish'
+    move: 'Chess: Move C3 to D4'
+    is_capture: true
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G8 to F6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E1 to G1'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E8 to G8'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E4 to E5'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move A5 to D2'
+    is_capture: true
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E5 to F6'
+    is_capture: true
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C6 to A5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move B3 to D3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move A5 to C4'
+    is_capture: true
+
+  - author: '@Stockfish'
+    move: 'Chess: Move C1 to D2'
+    is_capture: true
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C4 to D2'
+    is_capture: true
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D3 to D2'
+    is_capture: true
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move D7 to F5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F6 to G7'
+    is_capture: true
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F8 to E8'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D4 to D5'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F5 to F6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F3 to D4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E8 to E5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D4 to E2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F6 to G5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E2 to F4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C8 to F5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move G2 to G3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F5 to E4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move H2 to H4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G5 to G7'
+    is_capture: true
+
+  - author: '@Stockfish'
+    move: 'Chess: Move A1 to C1'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C7 to C5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D5 to C6'
+    is_capture: true
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E4 to C6'
+    is_capture: true
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D2 to D6'
+    is_capture: true
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move A8 to E8'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move G1 to H2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E5 to F5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move C1 to C5'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F5 to C5'
+    is_capture: true
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D6 to C5'
+    is_capture: true
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move A7 to A6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F1 to D1'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G7 to E5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move C5 to E5'
+    is_capture: true
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E8 to E5'
+    is_capture: true
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D1 to D8'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E5 to E8'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D8 to D2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F7 to F5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F4 to E2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G8 to F7'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E2 to D4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E8 to D8'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F2 to F3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move D8 to D5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move H2 to G2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C6 to D7'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move G2 to F2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F7 to F6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move A2 to A3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F6 to E5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F2 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move H7 to H6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D2 to D3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move A6 to A5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F3 to F4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E5 to D6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to F2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move H6 to H5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F2 to F3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move D6 to C7'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F3 to F2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move D5 to C5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F2 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C5 to C4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to D2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move B7 to B5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D4 to B3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move A5 to A4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move B3 to D4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move B5 to B4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move A3 to B4'
+    is_capture: true
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C4 to B4'
+    is_capture: true
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D2 to C3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move B4 to B8'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move C3 to C4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C7 to B6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D3 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move B8 to A8'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move C4 to B4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move A4 to A3'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to A3'
+    is_capture: true
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move A8 to A3'
+    is_capture: true
+
+  - author: '@Stockfish'
+    move: 'Chess: Move B4 to A3'
+    is_capture: true
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move B6 to C5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D4 to F3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move D7 to C6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F3 to G5'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C6 to D5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move A3 to A4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move D5 to G8'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move G5 to F3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G8 to A2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move A4 to A5'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move A2 to G8'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F3 to E5'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C5 to D4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move A5 to B6'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move D4 to E3'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move B6 to C6'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E3 to F2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E5 to D7'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F2 to G3'
+    is_capture: true
+
+  - author: '@Stockfish'
+    move: 'Chess: Move C6 to D6'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G3 to F4'
+    is_capture: true
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D7 to F6'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G8 to F7'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D6 to E7'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F7 to B3'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F6 to H5'
+    is_capture: true
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F4 to G4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move H5 to F6'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G4 to H4'
+    is_capture: true
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E7 to D6'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F5 to F4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F6 to E4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F4 to F3'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D6 to E5'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move H4 to G4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E5 to D4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G4 to F4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E4 to F2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move B3 to E6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F2 to D3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F4 to G3'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D4 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E6 to D7'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D3 to F2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move D7 to C6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F2 to D1'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C6 to E8'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D1 to F2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E8 to C6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F2 to D1'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G3 to G2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to F4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C6 to B7'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D1 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G2 to F2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to C2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F2 to G1'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move C2 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F3 to F2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F4 to G5'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move B7 to F3'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move G5 to F4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F3 to H5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F4 to E4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move H5 to E2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E4 to F5'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G1 to H2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F5 to E4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move H2 to G3'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to F5'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G3 to G2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F5 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G2 to G3'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to F5'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G3 to H3'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F5 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E2 to H5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to F1'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move H3 to G2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F1 to D2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move H5 to G4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E4 to E5'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G4 to D7'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E5 to F4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move D7 to C6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F4 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C6 to B7'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to F4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move B7 to F3'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F4 to G5'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G2 to G3'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D2 to F1'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G3 to G2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F1 to D2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F3 to C6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move G5 to F4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C6 to D7'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F4 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move D7 to G4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to F4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G4 to D1'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F4 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move D1 to A4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to F4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move A4 to C2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F4 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C2 to F5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to F4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F5 to G6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F4 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G6 to C2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to F4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C2 to B1'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F4 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move B1 to G6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to E2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G2 to G3'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D2 to F1'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G3 to G2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F1 to D2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G6 to F5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E2 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F5 to H7'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to E2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G2 to G3'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D2 to F1'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G3 to G2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F1 to D2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move H7 to B1'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E2 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move B1 to C2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to F4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C2 to H7'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F4 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move H7 to B1'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to E2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move B1 to E4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E2 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move E4 to F5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to F4'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F5 to C2'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F4 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C2 to B1'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to E2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move B1 to F5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E2 to E3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G2 to G3'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D2 to F1'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G3 to G4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move E3 to F2'
+    is_capture: true
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G4 to F4'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F1 to D2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F5 to C8'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D2 to F1'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move C8 to F5'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move F1 to D2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move F5 to G6'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D2 to B3'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move G6 to H7'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move B3 to D2'
+
+  - author: '@AlphaZero'
+    move: 'Chess: Move H7 to B1'
+
+  - author: '@Stockfish'
+    move: 'Chess: Move D2 to B1'
+    is_capture: true
+    is_draw: true

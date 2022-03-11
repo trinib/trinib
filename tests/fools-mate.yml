@@ -1,0 +1,18 @@
+name: Fool's Mate
+owner: '@player1'
+moves:
+  - author: '@player1'
+    move: 'Chess: Start new game'
+
+  - author: '@player2'
+    move: 'Chess: Move F2 to F3' # f3
+
+  - author: '@player1'
+    move: 'Chess: Move E7 to E6' # e6
+
+  - author: '@player2'
+    move: 'Chess: Move G2 to G4' # g4
+
+  - author: '@player1'
+    move: 'Chess: Move D8 to H4' # Qh4#
+    is_winner: true

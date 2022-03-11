@@ -1,0 +1,28 @@
+name: Scholar's Mate
+owner: '@player1'
+moves:
+  - author: '@player1'
+    move: 'Chess: Start new game'
+
+  - author: '@player1'
+    move: 'Chess: Move E2 to E4' # e4
+
+  - author: '@player2'
+    move: 'Chess: Move E7 to E5' # e5
+
+  - author: '@player1'
+    move: 'Chess: Move D1 to H5' # Qh5
+
+  - author: '@player2'
+    move: 'Chess: Move B8 to C6' # Nc6
+
+  - author: '@player1'
+    move: 'Chess: Move F1 to C4' # Bc4
+
+  - author: '@player2'
+    move: 'Chess: Move G8 to F6' # Nf6
+
+  - author: '@player1'
+    move: 'Chess: Move H5 to F7' # Qxf7#
+    is_capture: true
+    is_winner: true

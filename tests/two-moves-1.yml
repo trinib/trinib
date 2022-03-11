@@ -1,0 +1,11 @@
+name: Two consecutive moves (Start new game and first move)
+owner: '@player2'
+moves:
+  - author: '@player2'
+    move: 'Chess: Start new game'
+
+  - author: '@player2'
+    move: 'Chess: Move E2 to E4'
+
+  - author: '@player1'
+    move: 'Chess: Move E7 to E5'

@@ -1,0 +1,378 @@
+name: Stalemate
+owner: '@player1'
+moves:
+  - author: '@player1'
+    move: 'Chess: Start new game'
+
+  - author: '@player1'
+    move: 'Chess: Move D2 to D4'
+
+  - author: '@player2'
+    move: 'Chess: Move D7 to D5'
+
+  - author: '@player1'
+    move: 'Chess: Move C2 to C4'
+
+  - author: '@player2'
+    move: 'Chess: Move C7 to C6'
+
+  - author: '@player1'
+    move: 'Chess: Move G1 to F3'
+
+  - author: '@player2'
+    move: 'Chess: Move D5 to C4'
+    is_capture: true
+
+  - author: '@player1'
+    move: 'Chess: Move E2 to E3'
+
+  - author: '@player2'
+    move: 'Chess: Move C8 to F5'
+
+  - author: '@player1'
+    move: 'Chess: Move F1 to C4'
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move E7 to E6'
+
+  - author: '@player1'
+    move: 'Chess: Move B1 to C3'
+
+  - author: '@player2'
+    move: 'Chess: Move G8 to F6'
+
+  - author: '@player1'
+    move: 'Chess: Move E1 to G1'
+
+  - author: '@player2'
+    move: 'Chess: Move F8 to E7'
+
+  - author: '@player1'
+    move: 'Chess: Move D1 to E2'
+
+  - author: '@player2'
+    move: 'Chess: Move E8 to G8'
+
+  - author: '@player1'
+    move: 'Chess: Move E3 to E4'
+
+  - author: '@player2'
+    move: 'Chess: Move F5 to G4'
+
+  - author: '@player1'
+    move: 'Chess: Move F1 to D1'
+
+  - author: '@player2'
+    move: 'Chess: Move F8 to E8'
+
+  - author: '@player1'
+    move: 'Chess: Move C1 to F4'
+
+  - author: '@player2'
+    move: 'Chess: Move B8 to D7'
+
+  - author: '@player1'
+    move: 'Chess: Move A2 to A3'
+
+  - author: '@player2'
+    move: 'Chess: Move D8 to A5'
+
+  - author: '@player1'
+    move: 'Chess: Move H2 to H3'
+
+  - author: '@player2'
+    move: 'Chess: Move G4 to F3'
+    is_capture: true
+
+  - author: '@player1'
+    move: 'Chess: Move E2 to F3'
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move E6 to E5'
+
+  - author: '@player1'
+    move: 'Chess: Move B2 to B4'
+
+  - author: '@player2'
+    move: 'Chess: Move A5 to C7'
+
+  - author: '@player1'
+    move: 'Chess: Move F4 to G3'
+
+  - author: '@player2'
+    move: 'Chess: Move E7 to D6'
+
+  - author: '@player1'
+    move: 'Chess: Move A1 to C1'
+
+  - author: '@player2'
+    move: 'Chess: Move D7 to B6'
+
+  - author: '@player1'
+    move: 'Chess: Move C4 to B3'
+
+  - author: '@player2'
+    move: 'Chess: Move C7 to E7'
+
+  - author: '@player1'
+    move: 'Chess: Move D4 to D5'
+
+  - author: '@player2'
+    move: 'Chess: Move C6 to D5'
+    is_capture: true
+
+  - author: '@player1'
+    move: 'Chess: Move B3 to D5'
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move F6 to D5'
+    is_capture: true
+
+  - author: '@player1'
+    move: 'Chess: Move C3 to D5'
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move B6 to D5'
+    is_capture: true
+
+  - author: '@player1'
+    move: 'Chess: Move D1 to D5'
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move F7 to F6'
+
+  - author: '@player1'
+    move: 'Chess: Move C1 to D1'
+
+  - author: '@player2'
+    move: 'Chess: Move E8 to D8'
+
+  - author: '@player1'
+    move: 'Chess: Move F3 to D3'
+
+  - author: '@player2'
+    move: 'Chess: Move D6 to C7'
+
+  - author: '@player1'
+    move: 'Chess: Move D5 to D7'
+
+  - author: '@player2'
+    move: 'Chess: Move D8 to D7'
+    is_capture: true
+
+  - author: '@player1'
+    move: 'Chess: Move D3 to D7'
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move G8 to F8'
+
+  - author: '@player1'
+    move: 'Chess: Move D7 to A4'
+
+  - author: '@player2'
+    move: 'Chess: Move A7 to A6'
+
+  - author: '@player1'
+    move: 'Chess: Move D1 to D5'
+
+  - author: '@player2'
+    move: 'Chess: Move B7 to B5'
+
+  - author: '@player1'
+    move: 'Chess: Move A4 to C2'
+
+  - author: '@player2'
+    move: 'Chess: Move A8 to D8'
+
+  - author: '@player1'
+    move: 'Chess: Move D5 to C5'
+
+  - author: '@player2'
+    move: 'Chess: Move C7 to B6'
+
+  - author: '@player1'
+    move: 'Chess: Move C5 to C6'
+
+  - author: '@player2'
+    move: 'Chess: Move D8 to D6'
+
+  - author: '@player1'
+    move: 'Chess: Move C6 to C8'
+
+  - author: '@player2'
+    move: 'Chess: Move F8 to F7'
+
+  - author: '@player1'
+    move: 'Chess: Move C8 to H8'
+
+  - author: '@player2'
+    move: 'Chess: Move E7 to C7'
+
+  - author: '@player1'
+    move: 'Chess: Move C2 to E2'
+
+  - author: '@player2'
+    move: 'Chess: Move C7 to C1'
+
+  - author: '@player1'
+    move: 'Chess: Move G1 to H2'
+
+  - author: '@player2'
+    move: 'Chess: Move G7 to G6'
+
+  - author: '@player1'
+    move: 'Chess: Move H8 to H7'
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move F7 to G8'
+
+  - author: '@player1'
+    move: 'Chess: Move H7 to B7'
+
+  - author: '@player2'
+    move: 'Chess: Move D6 to D1'
+
+  - author: '@player1'
+    move: 'Chess: Move E2 to A2'
+
+  - author: '@player2'
+    move: 'Chess: Move G8 to H8'
+
+  - author: '@player1'
+    move: 'Chess: Move B7 to B8'
+
+  - author: '@player2'
+    move: 'Chess: Move B6 to D8'
+
+  - author: '@player1'
+    move: 'Chess: Move B8 to D8'
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move D1 to D8'
+    is_capture: true
+
+  - author: '@player1'
+    move: 'Chess: Move A2 to F7'
+
+  - author: '@player2'
+    move: 'Chess: Move C1 to C6'
+
+  - author: '@player1'
+    move: 'Chess: Move F7 to G6'
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move C6 to E6'
+
+  - author: '@player1'
+    move: 'Chess: Move G3 to H4'
+
+  - author: '@player2'
+    move: 'Chess: Move D8 to D6'
+
+  - author: '@player1'
+    move: 'Chess: Move G2 to G4'
+
+  - author: '@player2'
+    move: 'Chess: Move E6 to E7'
+
+  - author: '@player1'
+    move: 'Chess: Move G6 to H6'
+
+  - author: '@player2'
+    move: 'Chess: Move H8 to G8'
+
+  - author: '@player1'
+    move: 'Chess: Move H6 to G6'
+
+  - author: '@player2'
+    move: 'Chess: Move G8 to F8'
+
+  - author: '@player1'
+    move: 'Chess: Move G6 to F5'
+
+  - author: '@player2'
+    move: 'Chess: Move E7 to E6'
+
+  - author: '@player1'
+    move: 'Chess: Move F5 to H7'
+
+  - author: '@player2'
+    move: 'Chess: Move E6 to F7'
+
+  - author: '@player1'
+    move: 'Chess: Move H7 to H8'
+
+  - author: '@player2'
+    move: 'Chess: Move F8 to E7'
+
+  - author: '@player1'
+    move: 'Chess: Move G4 to G5'
+
+  - author: '@player2'
+    move: 'Chess: Move E7 to D7'
+
+  - author: '@player1'
+    move: 'Chess: Move G5 to F6'
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move D6 to D3'
+
+  - author: '@player1'
+    move: 'Chess: Move H8 to G7'
+
+  - author: '@player2'
+    move: 'Chess: Move D7 to E8'
+
+  - author: '@player1'
+    move: 'Chess: Move G7 to H8'
+
+  - author: '@player2'
+    move: 'Chess: Move E8 to D7'
+
+  - author: '@player1'
+    move: 'Chess: Move H8 to G7'
+
+  - author: '@player2'
+    move: 'Chess: Move D7 to E8'
+
+  - author: '@player1'
+    move: 'Chess: Move G7 to G4'
+
+  - author: '@player2'
+    move: 'Chess: Move E8 to F8'
+
+  - author: '@player1'
+    move: 'Chess: Move G4 to C8'
+
+  - author: '@player2'
+    move: 'Chess: Move F7 to E8'
+
+  - author: '@player1'
+    move: 'Chess: Move C8 to A6'
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move D3 to H3'
+    is_capture: true
+
+  - author: '@player1'
+    move: 'Chess: Move H2 to H3'
+    is_capture: true
+
+  - author: '@player2'
+    move: 'Chess: Move E8 to E6'
+
+  - author: '@player1'
+    move: 'Chess: Move A6 to E6'
+    is_capture: true
+    is_draw: true
