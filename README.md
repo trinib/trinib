@@ -38,9 +38,9 @@
 @@       o o                                           @@
 @@       | |                                           @@
 @@      _L_L_                                          @@
-@@   }\/__-__\/{ Programming isn't about what you know @@
-@@   }(|~o.o~|){  It's about what you can figure out   @@
-@@   }/ \`-'/ \{                                       @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
 @@   / /     \ \    | while( ! (succed=try() ) ) |     @@
@@ -48,13 +48,13 @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
 @@     | |"| |                                         @@
-@@     ( ) ( )       Testing leads to failure          @@
+@@     ( ) ( )   Testing leads to failure              @@
 @@     |_| |_|   and failure leads to understanding    @@
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
-</h4> 
+</h4>
 
 <!--📰RSS-->
 <p align="center">
@@ -144,6 +144,57 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/github-metrics.svg">
 </p>
 </details>
+ 
+<!--♟️CHESS / WEBSITE: https://github.com/marcizhu/readme-chess --> 
+ <h4 align="right">
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><h5 align="center"><details>
+  <summary><h2><img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="5%">&nbsp;Chess Tournament&nbsp;<img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="5%"></h2></summary><p>
+
+<h4 align="left">
+
+ANYONE can take a turn on the board  
+<i>Make your move !!. It's <!-- BEGIN TURN -->?<!-- END TURN --> to play(instructions beneath)</i>
+
+<!-- BEGIN CHESS BOARD -->
+(Here goes the chess board)
+<!-- END CHESS BOARD -->
+
+To move a piece to a postion
+ 
+**_Choose one from the following table_** :
+<!-- BEGIN MOVES LIST -->
+(Here goes the list of legal moves)
+<!-- END MOVES LIST -->
+
+Having fun? Ask a friend to play next move to get the next turn !
+
+<details>
+  <summary>How it works</summary>
+When you click on a link it will submit a new issue with the desired move, create the issue and a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
+</details>
+
+
+<details>
+  <summary>Last 5 moves in this game</summary>
+<!-- BEGIN LAST MOVES -->
+(Here goes the list of the last 5 moves)
+<!-- END LAST MOVES -->
+</details>
+
+<details>
+  <summary>Top 10 most moves across all games</summary>
+<!-- BEGIN TOP MOVES -->
+(Here goes the top 10 most moves)
+<!-- END TOP MOVES -->
+</details>
+</details><h5 align="center">
+  </tr>
+ </table>
+ 
 <!--🖼️STARRED/FORK--> 
 <h4 align="right"> 
  
