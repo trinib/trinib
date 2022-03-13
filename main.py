@@ -146,7 +146,7 @@ def main(issue, issue_author, repo_owner):
             return False, 'ERROR: Board is invalid!'
 
         issue_labels = ['⚔️ Capture!'] if gameboard.is_capture(move) else []
-        issue_labels += ['White' if gameboard.turn == chess.WHITE else 'Black']
+        issue_labels += ['White(hollow)' if gameboard.turn == chess.WHITE else 'Black(solid)']
 
         issue.create_comment(settings['comments']['successful_move'].format(author=issue_author, move=action[1]))
         issue.edit(state='closed', labels=issue_labels)
@@ -173,8 +173,8 @@ def main(issue, issue_author, repo_owner):
     if gameboard.is_game_over():
         win_msg = {
             '1/2-1/2': 'It\'s a draw',
-            '1-0': 'White wins',
-            '0-1': 'Black wins'
+            '1-0': 'White(hollow) wins',
+            '0-1': 'Black(solid) wins'
         }
 
         with open('data/last_moves.txt', 'r') as last_moves_file:
@@ -209,7 +209,7 @@ def main(issue, issue_author, repo_owner):
         file.write(readme.format(
             chess_board=markdown.board_to_markdown(gameboard),
             moves_list=markdown.generate_moves_list(gameboard),
-            turn=('white' if gameboard.turn == chess.WHITE else 'black'),
+            turn=('white(hollow)' if gameboard.turn == chess.WHITE else 'black(solid)'),
             last_moves=last_moves,
             top_moves=markdown.generate_top_moves()))
 
