@@ -1,4 +1,4 @@
-<!--👋HELLO EVERYBODY / WEBSITE: https://readme-typing-svg.herokuapp.com/demo/ -->
+<!--👋HELLO EVERYBODY / 🌐WEBSITE: https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2379A500&size=40&duration=3000&center=true&lines=Hello+Everybody">
 <!--🖼️GUMP-->
@@ -8,10 +8,10 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 <!--🖼️ILOVEOPENSOURCE-->
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
-<!--🎵SPOTIFY / WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300">
-<!--🦜PARROTSEMOJI / WEBSITE: https://github.com/seanprashad/slackmoji/ --> 
+<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ --> 
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
@@ -21,7 +21,7 @@
 <p align="center">
 <!--🖼️FUNCUSTOMIZING-->
 <img src="https://i.imgur.com/q6ygVcf.png" height="63" width="660">
-<!--🔳TERMINAL / WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
+<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="400" height="400">
 <!--📏LINE-->
 <p align="center">
@@ -29,7 +29,7 @@
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT--> 
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> 
-<!--🎨ASCIIART / WEBSITE: https://asciiart.website/ -->
+<!--🎨ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 <h4 align="center"> 
 
  ```diff
@@ -60,53 +60,53 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg">
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-<!--📊💬STATTEXT / WEBSITE: https://textanim.com/ -->
+<!--📊💬STATTEXT / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
-<!--📊STATSGRAPH / WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=trinib&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
-<!--📙LANGUAGES / WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinib&layout=compact&theme=merko">
-<!--📈ACTIVITYGRAPH / WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
 <p align="center">
 <img src="https://intense-river-40395.herokuapp.com/graph?username=trinib&theme=react-dark&custom_title=~%20~%20~%20My%20Profile%20Contribution%20Graph%20~%20~%20~&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
-<!--🐍💬SNAKETEXT / WEBSITE: https://textanim.com/ -->
+<!--🐍💬SNAKETEXT / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<!--🐍📈SNAKEGRAPH / WEBSITE: https://github.com/Platane/snk -->
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
-<!--🤣JOYEMOJI / WEBSITE: https://github.com/seanprashad/slackmoji/ -->
+<!--🤣JOYEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30">
-<!--😂💬JOKETEXT / WEBSITE: https://textanim.com/ -->
+<!--😂💬JOKETEXT / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
 <!--😂🃏JOKECARD-->
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
-<!--🍷WINEEMOJI / WEBSITE: https://github.com/seanprashad/slackmoji/ -->
+<!--🍷WINEEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30">
-<!--💬QUOTESTEXT / WEBSITE: https://textanim.com/ -->
+<!--💬QUOTESTEXT / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
 <!--💬🃏QUOTESCARD-->
 <p align="center">
 <img src="https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=churchill&font=default">
-<!--😻CATEMOJI / WEBSITE: https://github.com/seanprashad/slackmoji/ -->
+<!--😻CATEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30">
-<!--💬🃏MEMESTEXT / WEBSITE: https://textanim.com/ -->
+<!--💬🃏MEMESTEXT / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
 <!--🃏MEMESCARD-->
 <p align="center">
 <img src="https://random-memer.herokuapp.com/" width="250px"/>
-<!--🔄REFRESHPAGE / WEBSITE: https://textanim.com/ -->
+<!--🔄REFRESHPAGE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center"><a href="https://github.com/trinib/trinib"><img src="https://i.imgur.com/mGhPUXI.gif" width="200"></a>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">  
@@ -128,14 +128,14 @@
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
-<!--👀VIEWS / WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
 </h4>
-<!--🏆TROPHY / WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
+<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
-<!--📉METRICS / WEBSITE: https://github.com/lowlighter/metrics -->
+<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <h4 align="right">
 <details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
 <p>
@@ -144,7 +144,7 @@
 </p>
 </details>
  
-<!--♟️CHESS / WEBSITE: https://github.com/marcizhu/readme-chess --> 
+<!--♟️CHESS / 🌐WEBSITE: https://github.com/marcizhu/readme-chess --> 
  <h4 align="right">
 <table>
   <tr>
@@ -241,7 +241,7 @@ When you click on a link it will submit a new issue with the desired move, creat
 <!--📏LINE--> 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-<!--🎨THEMEMODE / WEBSITE: https://fancytext.blogspot.com/ -->
+<!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 <h4 align="left"> 
 
 </h4>
