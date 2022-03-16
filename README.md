@@ -100,7 +100,7 @@
 <!--💬🃏QUOTESACTION / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
 <p align="center">
 <!--STARTS_HERE_QUOTE_README-->
-<b>FUN FACT</b> : <i>❝Amazon was a hard cover book seller, but actually now sells more e-books than hard covers❞</i>
+<i>❝Windows doesn’t allow for creation of folders tagged CON, PRN, AUX, or NUL. These are keywords reserved by DOS.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <br>
 <br>
