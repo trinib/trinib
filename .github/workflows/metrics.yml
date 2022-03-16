@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          committer_message: 📈Profile metrics updated📈
+          committer_message: 📈GitHub action updated profile metrics📉
           token: ${{ secrets.METRICS_TOKEN }}
           user: trinib
           base: header, activity, community, repositories, metadata
