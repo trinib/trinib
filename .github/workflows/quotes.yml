@@ -3,8 +3,8 @@ name: Update Quote Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 30 minutes
-    - cron: '04 01 * * *'
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
 
 jobs:
   update-readme:
