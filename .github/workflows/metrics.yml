@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: trinib/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           committer_message: 📈Profile metrics updated📈
           token: ${{ secrets.METRICS_TOKEN }}
