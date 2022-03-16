@@ -10,6 +10,7 @@ jobs:
     steps:
       - uses: trinib/metrics@latest
         with:
+          committer_message: 📈Profile metrics updated📈
           token: ${{ secrets.METRICS_TOKEN }}
           user: trinib
           base: header, activity, community, repositories, metadata
