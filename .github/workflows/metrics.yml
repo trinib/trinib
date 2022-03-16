@@ -15,6 +15,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           plugin_introduction: yes
           plugin_activity: yes
+          COMMIT_MESSAGE: 📈Profile metrics updated📈
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create, comment, push, star
