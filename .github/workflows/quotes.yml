@@ -1,0 +1,17 @@
+name: Update Quote Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 30 minutes
+    - cron: '04 01 * * *'
+
+jobs:
+  update-readme:
+    name: Update Quote README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: siddharth2016/quote-readme@main
+        with:
+          COMMIT_MESSAGE: 💬Github action updated readme with a FUN FACT!🤓      # default - Update with quote-readme
+          OPTION: funfact           # default - both, can be one of (quote, funfact, both), if 'both' then will display either a quote or a fact
