@@ -99,6 +99,7 @@
 <img src="https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=churchill&font=default">
 <!--💬🃏QUOTESACTION / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
 <p align="center">
+<b>FUN FACT🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Windows doesn’t allow for creation of folders tagged CON, PRN, AUX, or NUL. These are keywords reserved by DOS.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
