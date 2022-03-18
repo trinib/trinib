@@ -13,5 +13,5 @@ jobs:
     steps:
       - uses: siddharth2016/quote-readme@main
         with:
-          COMMIT_MESSAGE: 🤓Github action updated readme with a FUN FACT🤓 # default - Update with quote-readme
+          COMMIT_MESSAGE: 🤓Github action updated readme with a ℱỮŇ ℱΔĆŦ🤓 # default - Update with quote-readme
           OPTION: funfact           # default - both, can be one of (quote, funfact, both), if 'both' then will display either a quote or a fact
