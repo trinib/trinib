@@ -264,6 +264,9 @@ When you click on a link it will submit a new issue with the desired move, creat
 <p align="left">
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">
  
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+ 
 <!--
 **trinib/trinib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
