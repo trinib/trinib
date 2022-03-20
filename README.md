@@ -65,7 +65,7 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg">
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-<!--📊💬STATTEXT / 🌐WEBSITE: https://textanim.com/ -->
+<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
@@ -77,7 +77,7 @@
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
 <p align="center">
 <img src="https://intense-river-40395.herokuapp.com/graph?username=trinib&theme=react-dark&custom_title=~%20~%20~%20My%20Profile%20Contribution%20Graph%20~%20~%20~&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
-<!--🐍💬SNAKETEXT / 🌐WEBSITE: https://textanim.com/ -->
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
@@ -87,7 +87,7 @@
 <!--🤣JOYEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30">
-<!--😂💬JOKETEXT / 🌐WEBSITE: https://textanim.com/ -->
+<!--😂💬JOKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
 <!--😂🃏JOKECARD-->
@@ -96,7 +96,7 @@
 <!--🍷WINEEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30">
-<!--💬QUOTESTEXT / 🌐WEBSITE: https://textanim.com/ -->
+<!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
 <!--💬🃏QUOTESCARD-->
@@ -105,12 +105,12 @@
 <!--😻CATEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30">
-<!--💬🃏MEMESTEXT / 🌐WEBSITE: https://textanim.com/ -->
+<!--💬🃏MEMESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
-<!--🃏MEMESCARD-->
+<!--🃏MEMEPHOTOS / 🌐https://github.com/techytushar/random-memer -->
 <p align="center">
-<img src="https://random-memer.herokuapp.com/" width="250px"/>
+<img src="https://trinibmeme.herokuapp.com/" width="250px"/>
 <!--🔄REFRESHPAGE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center"><a href="https://github.com/trinib/trinib"><img src="https://i.imgur.com/mGhPUXI.gif" width="200"></a>
 <!--📏LINE-->
@@ -118,7 +118,7 @@
 <!--🐱CAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-<!--🤔INTERESTTEXT-->
+<!--🤔INTERESTTITLE-->
 <p align="center">
 <img src="https://i.imgur.com/ozEwbHs.gif">
 <!--🖼️🖼️INTERSTLOGOS-->
