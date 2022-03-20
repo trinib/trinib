@@ -110,7 +110,7 @@
 <img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
 <!--🃏MEMEPHOTOS / 🌐https://github.com/techytushar/random-memer -->
 <p align="center">
-<img src="https://trinibmeme.herokuapp.com/" width="250px"/>
+<img src="https://camo.githubusercontent.com/f45e5fad7f34a6c4e4d9b12230b5a59eacf798bad8022b6603a5fb08f7a84883/68747470733a2f2f7472696e69626d656d652e6865726f6b756170702e636f6d2f" width="260px"/>
 <!--🔄REFRESHPAGE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center"><a href="https://github.com/trinib/trinib"><img src="https://i.imgur.com/mGhPUXI.gif" width="200"></a>
 <!--📏LINE-->
