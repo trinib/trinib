@@ -76,7 +76,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinib&layout=compact&theme=merko">
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
 <p align="center">
-<img src="https://camo.githubusercontent.com/c161e8b2071eb5895f34731f3aa6963c1ba4cbd4c1a8038ebaabf27663ca4512/68747470733a2f2f7472696e6962672e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26637573746f6d5f7469746c653d7e2532307e2532307e2532304d7925323050726f66696c65253230436f6e747269627574696f6e25323047726170682532307e2532307e2532307e26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765" width="100%">
+<img src="https://trinibg.herokuapp.com" width="100%">
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
@@ -110,7 +110,7 @@
 <img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
 <!--🃏MEMEPHOTOS / 🌐https://github.com/techytushar/random-memer -->
 <p align="center">
-<img src="https://camo.githubusercontent.com/f45e5fad7f34a6c4e4d9b12230b5a59eacf798bad8022b6603a5fb08f7a84883/68747470733a2f2f7472696e69626d656d652e6865726f6b756170702e636f6d2f" width="260px"/>
+<img src="https://trinibmeme.herokuapp.com/" width="260px"/>
 <!--🔄REFRESHPAGE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center"><a href="https://github.com/trinib/trinib"><img src="https://i.imgur.com/mGhPUXI.gif" width="200"></a>
 <!--📏LINE-->
