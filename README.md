@@ -64,7 +64,7 @@
 <p align="center">
 <b>FUN FACT🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Lenovo stands for ‘new legend’. ‘Le’ for legend, and ‘novo’ stands for new.❞</i>
+<i>❝500 hours of Video are uploaded to Facebook every minute according to Forecast.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <!--📰RSS-->
 <p align="center">
