@@ -20,7 +20,9 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create, comment, push, star
           plugin_gists: yes
-          plugin_habits_charts: yes
+          plugin_languages: yes
+          plugin_languages_indepth: yes
           plugin_topics: yes
           plugin_topics_sort: stars
+          plugin_topics_mode: icons
           plugin_topics_limit: 15
