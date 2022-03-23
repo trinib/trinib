@@ -1,7 +1,7 @@
 settings:
   disabled_events: [event1, event2, event3]
   commit_msg: "🔥Updated README🔥"
-  max_lines: 0
+  max_lines: 1
   readme_file: "./README.md"
   url_text: "{REPO}{ID}"
   date:
