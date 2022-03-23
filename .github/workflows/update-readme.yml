@@ -1,0 +1,28 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Readme-Workflows/recent-activity@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          CONFIG_FILE: "./.github/update-readme.config.yml"
+
+      - uses: actions-js/profile-readme@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: trinib
+
+      - uses: actions-js/push@v1.3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: "master"
