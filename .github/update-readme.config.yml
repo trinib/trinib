@@ -7,3 +7,15 @@ settings:
     timezone: "America/Barbados"
     text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
     commit_msg: "ʕʘ̅͜ʘ̅ʔ 🔥README UPDATED🔥 ʕʘ̅͜ʘ̅ʔ"
+messages:
+  comments: "💬 Commented on {ID} in {REPO}"
+  issue_opened: "❗️ Opened issue {ID} in {REPO}"
+  issue_closed: "✔️ Closed issue {ID} in {REPO}"
+  pr_opened: "💪 Opened PR {ID} in {REPO}"
+  pr_closed: "❌ Closed PR {ID} in {REPO}"
+  pr_merged: "🎉 Merged PR {ID} in {REPO}"
+  create_repo: "📔 Created new repository {REPO}"
+  fork_repo: "🔱 Forked {FORK} from {REPO}"
+  wiki_create: "📖 Created new wiki page {WIKI} in {REPO}"
+  added_member: "🤝 Became collaborator on {REPO}"
+  changes_approved: "👍 Approved {ID} in {REPO}"
