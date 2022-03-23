@@ -1,11 +1,11 @@
 settings:
   disabled_events: [event1, event2, event3]
   commit_msg: "🔥Updated README🔥"
-  max_lines: 5
+  max_lines: 0
   readme_file: "./README.md"
   url_text: "{REPO}{ID}"
   date:
-    timezone: "GMT+00:00"
+    timezone: "GMT-04:00"
     text: "Last Updated: {DATE}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   commit_name: "readme-bot"
