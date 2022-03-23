@@ -16,13 +16,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           CONFIG_FILE: "./.github/update-readme.config.yml"
-
-      - uses: actions-js/profile-readme@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: trinib
-
-      - uses: actions-js/push@v1.3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: "master"
