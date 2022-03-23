@@ -1,0 +1,11 @@
+settings:
+  readme_file: "./TEMPLATE.md"
+  max_lines: 10
+#   commit_name: "abhijoshi2k"
+#   commit_email: "abhijoshi2k@gmail.com"
+  disabled_events:
+    - "comments"
+  date:
+    timezone: "America/Barbados"
+    text: '<p align="center">Readme last refresh: <b>{DATE} IST</b>'
+    commit_msg: ʕʘ̅͜ʘ̅ʔ 🔥README UPDATED🔥 ʕʘ̅͜ʘ̅ʔ
