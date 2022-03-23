@@ -1,5 +1,7 @@
 settings:
   readme_file: "./README.md"
+  disabled_events:
+    - "comments"
 
   date:
     timezone: "America/Barbados"
