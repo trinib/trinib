@@ -283,8 +283,8 @@ When you click on a link it will submit a new issue with the desired move, creat
 1. ⭐ Starred [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners)
 2. 🔱 Forked [trinib/svg-banners](https://github.com/trinib/svg-banners) from [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners)
 3. ❌ Closed PR [#193](https://github.com/matiassingers/awesome-readme/pull/193) in [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
-4. 💬 Commented on [#193](https://github.com/matiassingers/awesome-readme/pull/193#issuecomment-1075226284) in [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
-5. 💪 Opened PR [#193](https://github.com/matiassingers/awesome-readme/pull/193) in [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
+4. 💪 Opened PR [#193](https://github.com/matiassingers/awesome-readme/pull/193) in [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
+5. 🎉 Merged PR [#1](https://github.com/trinib/awesome-readme/pull/1) in [trinib/awesome-readme](https://github.com/trinib/awesome-readme)
 <!--RECENT_ACTIVITY:end-->
  
 <!--
