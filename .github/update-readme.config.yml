@@ -5,5 +5,5 @@ settings:
 
   date:
     timezone: "America/Barbados"
-    text: '<p align="center">Readme last refresh: <b>{DATE} IST</b>'
+    text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
     commit_msg: "ʕʘ̅͜ʘ̅ʔ 🔥README UPDATED🔥 ʕʘ̅͜ʘ̅ʔ"
