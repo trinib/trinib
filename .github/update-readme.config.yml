@@ -1,10 +1,10 @@
 settings:
   disabled_events: [event1, event2, event3]
-  commit_msg: "٩(̾●̮̮̃̾•̃̾)۶🔥Updated README🔥٩(̾●̮̮̃̾•̃̾)۶"
+  commit_msg: "٩(̾●̮̮̃̾•̃̾)۶🔥ℝ𝔼𝔸𝔻𝕄𝔼 𝕌ℙ𝔻𝔸𝕋𝔼𝔻🔥٩(̾●̮̮̃̾•̃̾)۶"
   max_lines: 0
   readme_file: "./README.md"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT-04:00"
-    text: "Last Updated: {DATE}"
+    text: "<i>Last refresh</i>: <b>{DATE}</b>"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
