@@ -277,6 +277,9 @@ When you click on a link it will submit a new issue with the desired move, creat
  
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+
+<p align="right">
+<!--RECENT_ACTIVITY:start-->
  
 <!--
 **trinib/trinib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
