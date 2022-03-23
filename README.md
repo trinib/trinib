@@ -279,10 +279,11 @@ When you click on a link it will submit a new issue with the desired move, creat
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
  
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 23rd, 2022, 1:43:31 PM
+Last Updated: Wednesday, March 23rd, 2022, 1:45:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
  
 <!--
