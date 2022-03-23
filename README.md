@@ -280,7 +280,7 @@ When you click on a link it will submit a new issue with the desired move, creat
 <!--🎨ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
-
+<p align="right">
 <!--RECENT_ACTIVITY:last_update-->
 <i>Last refresh</i>: <b>Wednesday, March 23rd, 2022, 3:21:32 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
