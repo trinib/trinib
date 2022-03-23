@@ -277,11 +277,12 @@ When you click on a link it will submit a new issue with the desired move, creat
  
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
- 
+<!--🎨ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+<p align="right">
 Last Updated: Wednesday, March 23rd, 2022, 3:09:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
  
