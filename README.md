@@ -50,7 +50,7 @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
 @@     | |"| |                                         @@
-@@     ( ) ( )   trinibing leads to failure              @@
+@@     ( ) ( )   Testing leads to failure              @@
 @@     |_| |_|   and failure leads to understanding    @@
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
@@ -114,7 +114,7 @@
 <!--🍷WINEEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30">
-<!--💬QUOtrinibITLE / 🌐WEBSITE: https://textanim.com/ -->
+<!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
 <!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
@@ -131,6 +131,8 @@
 <!--🃏MEMEPHOTOS / 🌐https://github.com/techytushar/random-memer -->
 <p align="center">
 <img src="https://camo.githubusercontent.com/f45e5fad7f34a6c4e4d9b12230b5a59eacf798bad8022b6603a5fb08f7a84883/68747470733a2f2f7472696e69626d656d652e6865726f6b756170702e636f6d2f" width="260px"/>
+<!--🔄REFRESHPAGE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center"><a href="https://github.com/trinib/trinib"><img src="https://i.imgur.com/mGhPUXI.gif" width="200"></a>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <!--💬FUNTEXT -->
@@ -288,7 +290,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 
 ## 📛Github Usernames📛
 
-![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-10-informational?labelColor=003995)
+![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-3-informational?labelColor=003995)
 ![Word Cloud Contributors Badge](https://img.shields.io/badge/Cloud%20Contributors-1-blueviolet?labelColor=25004e)
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
@@ -369,7 +371,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i>: <b>Tuesday, March 29th, 2022, 3:20:25 PM</b>
+<i>Last refresh</i>: <b>Sunday, March 27th, 2022, 5:54:05 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
  
 <!--
