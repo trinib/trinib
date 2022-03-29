@@ -65,7 +65,7 @@
 <p align="center">
 <b>FUN FACT🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first Apple computer ever made by Steve Jobs and Steve Wozniak was made from old parts they collected for free from their staff!❞</i>
+<i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
@@ -245,8 +245,8 @@ Here you can play Connect4. Just click a number under the grid to move, where to
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|   | [1](https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+1) | [2](https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+2) | [3](https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+3) | [4](https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+4) | [5](https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+5) | [6](https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+6) | [7](https://github.com/trinib/trinib/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+7) |   |
+|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
+|   | [1](https://github.com/trinib/trinib2/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+1) | [2](https://github.com/trinib/trinib2/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+2) | [3](https://github.com/trinib/trinib2/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+3) | [4](https://github.com/trinib/trinib2/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+4) | [5](https://github.com/trinib/trinib2/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+5) | [6](https://github.com/trinib/trinib2/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+6) | [7](https://github.com/trinib/trinib2/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+7) |   |
 <!-- END CONNECT4 BOARD -->
 <!-- BEGIN MOVES LIST2 -->
 <!-- END MOVES LIST2 -->
@@ -257,7 +257,6 @@ Here you can play Connect4. Just click a number under the grid to move, where to
 
 | Move | Author |
 | :--: | :----- |
-| `5` |  [ @trinib](https://github.com/trinib) | |
 | `Start game` |  [ @trinib](https://github.com/trinib) | |
 
 <!-- END LAST MOVES2 -->
@@ -269,7 +268,7 @@ Here you can play Connect4. Just click a number under the grid to move, where to
 
 | Total moves |  User  |
 | :---------: | :----- |
-| 11 |  [@trinib](https://github.com/trinib) | |
+| 9 |  [@trinib](https://github.com/trinib) | |
 
 <!-- END TOP MOVES2 -->
 </details>
@@ -291,12 +290,48 @@ Join the Word Cloud Board :cloud: :pencil2:
 
 ## 📛Github Usernames📛
 
-![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-2-informational?labelColor=003995)
+![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-1-informational?labelColor=003995)
 ![Word Cloud Contributors Badge](https://img.shields.io/badge/Cloud%20Contributors-1-blueviolet?labelColor=25004e)
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 </div>
-  
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<p align="center">
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<!--🤔INTERESTTITLE-->
+<p align="center">
+<img src="https://i.imgur.com/ozEwbHs.gif">
+<!--🖼️🖼️INTERSTLOGOS-->
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+
+</h4>
+<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
+<h4 align="right">
+<details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
+<p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/github-metrics.svg">
+</p>
+</details>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+ 
 <!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
  
@@ -336,7 +371,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i>: <b>Tuesday, March 29th, 2022, 6:30:53 PM</b>
+<i>Last refresh</i>: <b>Sunday, March 27th, 2022, 5:54:05 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
  
 <!--
