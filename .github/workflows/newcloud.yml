@@ -1,0 +1,49 @@
+name: "wordcloud"
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  newCloud:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.pull_request.title, 'New Word Cloud')
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@v2.3.1
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.7.1
+
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+
+    - name: Install dependencies
+      run: |
+        gem install octokit -N --silent
+        pip install wordcloud
+
+    - name: New Word Cloud Generation
+      env:
+        REPOSITORY: ${{ github.repository }}
+        EVENT_PR_NUMBER: ${{ github.event.pull_request.number }}
+        EVENT_USER_LOGIN: ${{ github.event.pull_request.user.login }}
+        EVENT_PR_TITLE: ${{ github.event.pull_request.title }}
+      run: |
+        ruby <<- EORUBY
+          require './wordcloud/runner'
+          
+          Runner.new(
+            github_token: '${{ secrets.GITHUB_TOKEN }}',
+            issue_number: ENV.fetch('EVENT_PR_NUMBER'),
+            issue_title: ENV.fetch('EVENT_PR_TITLE'),
+            repository: ENV.fetch('REPOSITORY'),
+            user: ENV.fetch('EVENT_USER_LOGIN'),
+          ).new_cloud
+
+        EORUBY
