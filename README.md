@@ -290,7 +290,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 
 ## 📛Github Usernames📛
 
-![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-3-informational?labelColor=003995)
+![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-1-informational?labelColor=003995)
 ![Word Cloud Contributors Badge](https://img.shields.io/badge/Cloud%20Contributors-1-blueviolet?labelColor=25004e)
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
@@ -371,7 +371,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i>: <b>Tuesday, March 29th, 2022, 3:42:04 PM</b>
+<i>Last refresh</i>: <b>Sunday, March 27th, 2022, 5:54:05 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
  
 <!--
