@@ -319,9 +319,9 @@ Here you can play Connect4. Just click a number under the grid to move, where to
 <h2 align="center">
 Join the Word Cloud Board :cloud: :pencil2:
 
-### :thought_balloon: [Add your name](https://github.com/trinib/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E) to see the word cloud update in real time :rocket:
+### :thought_balloon: <a href="https://github.com/trinib/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle"><b>Add your name</b></a> to see the word cloud update in real time :rocket:
 
-:star2: Don't like the arrangement? [Regenerate it](https://github.com/trinib/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
+:star2: Don't like the arrangement? <a href="https://github.com/trinib/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle"><b>Regenerate it</b></a> :game_die:
 
 <div align="center">
 
