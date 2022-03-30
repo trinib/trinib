@@ -288,7 +288,6 @@ Join the Word Cloud Board :cloud: :pencil2:
 
 <h2 align="center">
 📛Github Usernames📛 
-</br>
 </br> 
 <img src="https://raw.githubusercontent.com/trinib/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 <!--📏LINE-->
