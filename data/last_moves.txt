@@ -1,2 +1,1 @@
-e2e4: @trinib
 Start game: @trinib
