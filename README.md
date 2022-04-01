@@ -94,12 +94,20 @@
 <img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
 <p align="center">
-<img src="https://camo.githubusercontent.com/5870d68f9990d2f2950dc7054fb673a3d9ca12f633e0e68be1f6c888b2b9a5ac/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765" width="100%">
+<img src="https://camo.githubusercontent.com/28980ad6aae5176f619eefb779627158f420401babf4d1ca4933955f7ed39f62/68747470733a2f2f7472696e69622d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26637573746f6d5f7469746c653d2546302539462538432538382545322539432541382532304d7925323050726f66696c65253230436f6e747269627574696f6e253230477261706825323025453225394325413825463025394625384325383826686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765" width="100%">
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
+<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
+<h4 align="right">
+<details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
+<p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/github-metrics.svg">
+</p>
+</details>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 <!--🤣JOYEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
@@ -131,8 +139,6 @@
 <!--🃏MEMEPHOTOS / 🌐https://github.com/techytushar/random-memer -->
 <p align="center">
 <img src="https://camo.githubusercontent.com/f45e5fad7f34a6c4e4d9b12230b5a59eacf798bad8022b6603a5fb08f7a84883/68747470733a2f2f7472696e69626d656d652e6865726f6b756170702e636f6d2f" width="260px"/>
-<!--🔄REFRESHPAGE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center"><a href="https://github.com/trinib/trinib"><img src="https://i.imgur.com/mGhPUXI.gif" width="200"></a>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <!--💬FUNTEXT -->
@@ -316,14 +322,6 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
-<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
-<h4 align="right">
-<details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
-<p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/github-metrics.svg">
-</p>
-</details>
 <!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
  
@@ -363,7 +361,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i>: <b>Friday, April 1st, 2022, 12:14:51 AM</b>
+<i>Last refresh</i>: <b>Thursday, March 31st, 2022, 11:39:23 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
  
 <!--
