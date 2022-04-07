@@ -1,0 +1,10 @@
+[Event "@trinib's Online Open Chess Tournament"]
+[Site "https://github.com/trinib/trinib"]
+[Date "2022.04.01"]
+[Round "1"]
+[White "?"]
+[Black "?"]
+[Result "0-1"]
+
+1. e4 { @trinib } 1... e5 { @JayantGoel001 } 2. g3 { @trinib } 2... Qf6 { @JayantGoel001 } 3. c3 { @trinib } 3... Bc5 { @JayantGoel001 } 4. f3 { @trinib } 4... d6 { @JayantGoel001 } 5. d3 { @trinib } 5... Bg4 { @JayantGoel001 } 6. Nd2 { @trinib } 6... Nc6 { @JayantGoel001 } 7. d4 { @trinib } 7... exd4 { @JayantGoel001 } 8. fxg4 { @trinib } 8... dxc3 { @JayantGoel001 } 9. Ndf3 { @trinib } 9... cxb2 { @JayantGoel001 } 10. g5 { @trinib } 10... Qc3+ { @JayantGoel001 } 11. Bd2 { @trinib } 11... Qa3 { @JayantGoel001 } 12. Rb1 { @trinib } 12... Nb4 { @JayantGoel001 } 13. Ne2 { @trinib } 13... Nd3# { @JayantGoel001 } 0-1
+
