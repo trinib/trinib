@@ -65,7 +65,7 @@
 <p align="center">
 <b>FUN FACT🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.❞</i>
+<i>❝In 1833, Charles Babbage invented all the parts a modern computer uses, but it wasn’t until 120 years later that the first modern computers were invented.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
