@@ -140,7 +140,7 @@
 <img src="https://camo.githubusercontent.com/f45e5fad7f34a6c4e4d9b12230b5a59eacf798bad8022b6603a5fb08f7a84883/68747470733a2f2f7472696e69626d656d652e6865726f6b756170702e636f6d2f" width="260px"/>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-<!--💬FUNTEXT -->
+<!--💬FUNTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/jdd2GPv.gif" height="37" width="250">
 <!--♟️CHESS / 🌐WEBSITE: https://github.com/marcizhu/readme-chess --> 
