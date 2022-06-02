@@ -65,7 +65,7 @@
 <p align="center">
 <b>FUN FACT🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The Ultra NVidia GeForce 6800 video card was built with 222 million transistors and considered among the best todate.❞</i>
+<i>❝Computers have memory or RAM, which stores items on the computer when they’re not in use. The processor stores everything your computer needs to run.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
@@ -77,7 +77,7 @@
 <img src="https://i.imgur.com/YCw47Dm.gif">
 <!--🖼️OCTOCAT-->
 <p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="10%">
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=trinib&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
@@ -150,7 +150,7 @@
   </tr>
   <tr>
     <td><h5 align="center"><details>
-  <summary><h2><img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="20px">&nbsp;Chess Tournament&nbsp;<img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="20px"></h2></summary><p>
+  <summary><h2><img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="40px" height="40px">&nbsp;Chess Tournament&nbsp;<img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="40px" height="40px"></h2></summary><p>
 
 <h4 align="left">
 
@@ -223,6 +223,7 @@ When you click on a link it will submit a new issue with the desired move, creat
 | 1 | [@teotoniojr](https://github.com/teotoniojr) |
 
 <!-- END TOP MOVES -->
+
 </details>
 </details><h5 align="center">
   </tr>
@@ -235,7 +236,7 @@ When you click on a link it will submit a new issue with the desired move, creat
   </tr>
   <tr>
     <td><h5 align="center"><details>
-  <summary><h2>&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/L3LNfB3IXIUmySN67Z/giphy.gif" width="20px">&nbsp;Connect Dot&nbsp;<img src="https://media.giphy.com/media/Y0slbp1Hr4C8lUA5UG/giphy.gif" width="20px">&nbsp;&nbsp;&nbsp;</h2></summary><p>
+  <summary><h2><img src="https://media.giphy.com/media/L3LNfB3IXIUmySN67Z/giphy.gif" width="40px" height="40px">&nbsp;Chess Tournament&nbsp;<img src="https://media.giphy.com/media/Y0slbp1Hr4C8lUA5UG/giphy.gif" width="40px" height="40px"></h2></summary><p>
 
 <h4 align="left">
 
@@ -364,7 +365,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i>: <b>Thursday, June 2nd, 2022, 10:50:39 AM</b>
+<i>Last refresh</i>: <b>Thursday, June 2nd, 2022, 10:09:53 AM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <!-- 
