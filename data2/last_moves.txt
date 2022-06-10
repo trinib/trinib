@@ -1,8 +1,1 @@
-6: @oxoovo
-2: @trinib
-3: @mauro-balades
-4: @trinib
-4: @JayantGoel001
-5: @trinib
-5: @JayantGoel001
-Start game: @trinib
+Start game: @oxoovo
