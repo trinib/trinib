@@ -65,7 +65,7 @@
 <p align="center">
 <b>FUN FACT🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first word spoken on the internet was “lo”. It was supposed to be “login” but the computer crashed after the first two letters.❞</i>
+<i>❝One of the first instances of a stored computer program was in 1801 when Joseph Marie Jacquard demonstrated a loom that wove fabrics based on hole-punched cards that were fed into the machine.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
