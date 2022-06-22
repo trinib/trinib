@@ -85,7 +85,7 @@
 <p align="center">
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinib&layout=compact&theme=merko">
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-Cloudflare&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko">
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
 <a href="https://stackoverflow.com/users/14602915/trinib"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark">
