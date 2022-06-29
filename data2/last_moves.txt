@@ -1,8 +1,1 @@
-7: @oxoovo
-4: @SantosPauloRF
-6: @trinib
-5: @oxoovo
-5: @oxoovo
-4: @trinib
-4: @oxoovo
-Start game: @oxoovo
+Start game: @trinib
