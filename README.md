@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!--🖼️ILOVEOPENSOURCE-->
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="400" height="400">
 <!--📏LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
@@ -71,7 +71,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg">
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
@@ -116,7 +116,7 @@
 </p>
 </details>
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 <!--🤣JOYEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30">
@@ -147,7 +147,7 @@
 <p align="center">
 <img src="https://camo.githubusercontent.com/f45e5fad7f34a6c4e4d9b12230b5a59eacf798bad8022b6603a5fb08f7a84883/68747470733a2f2f7472696e69626d656d652e6865726f6b756170702e636f6d2f" width="260px"/>
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!--💬FUNTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/jdd2GPv.gif" height="37" width="250">
@@ -324,7 +324,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 </br> 
 <img src="https://raw.githubusercontent.com/trinib/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
 <!--🐱CAT-->
 <p align="center">
@@ -365,7 +365,7 @@ Join the Word Cloud Board :cloud: :pencil2:
  </table>
 <!--📏LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 <h4 align="left">
 
