@@ -448,3 +448,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<img src="https://djebbz.github.io/docpad-paris-js/thats-all-folks.jpg"
+</p>
