@@ -78,7 +78,7 @@
 <!--🖼️OCTOCAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
-<!--GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
+<!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
 <p align="center">
 <a href="https://trinib.wrapped.run"><b>GitHub Wrapped</b></a>
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
