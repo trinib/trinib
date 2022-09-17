@@ -1,1 +1,1 @@
-{'@trinib': 8, '@JayantGoel001': 2, '@mauro-balades': 1, '@oxoovo': 5, '@SantosPauloRF': 1, '@BolaGhaly': 1, '@PriestlyAdejo': 1, '@bot-beep-boop': 1, '@RedCommand-dev': 1, '@BlueFalconHD': 1, '@kacperwyczawski': 1, '@mklenk': 1, '@Elizalzate': 1, '@runxel': 1}
+{'@trinib': 8, '@JayantGoel001': 2, '@mauro-balades': 1, '@oxoovo': 5, '@SantosPauloRF': 1, '@BolaGhaly': 1, '@PriestlyAdejo': 1, '@bot-beep-boop': 1, '@RedCommand-dev': 1, '@BlueFalconHD': 1, '@kacperwyczawski': 1, '@mklenk': 1, '@Elizalzate': 1, '@runxel': 1, '@Monster0506': 1}
