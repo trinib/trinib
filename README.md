@@ -184,7 +184,7 @@
 
 <!--🃏MEMEPHOTOS / 🌐https://github.com/trinib/random-memer -->
 <p align="center">
-<img src="https://meme-0xbc.onrender.com" width="260px"/>
+<img src="https://camo.githubusercontent.com/70b3dda3659d5c7ee681be7a903f175e80e400e9b3daf82e904ba6916912f6ef/68747470733a2f2f6d656d65722d6c7767732e6f6e72656e6465722e636f6d2f" width="260px"/>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
