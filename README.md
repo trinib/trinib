@@ -182,9 +182,9 @@
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30">
 
-<!--🃏MEMEPHOTOS / 🌐https://github.com/techytushar/random-memer -->
+<!--🃏MEMEPHOTOS / 🌐https://github.com/trinib/random-memer -->
 <p align="center">
-<img src="https://camo.githubusercontent.com/604bc5815a40915e885a77d36f73696dacb540df33c50010a2eb8201de802456/68747470733a2f2f7765622d70726f64756374696f6e2d343162302e75702e7261696c7761792e6170702f" width="260px"/>
+<img src="https://meme-0xbc.onrender.com" width="260px"/>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
