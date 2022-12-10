@@ -45,8 +45,9 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
 
 <!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
-<h4 align="center">
 
+<div align="center">
+  
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
@@ -68,8 +69,9 @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
-</h4>
-
+  
+</div>
+  
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
@@ -126,8 +128,8 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
 
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-<img src="https://camo.githubusercontent.com/38440fca5cd74842866300677da0a6a9189affc62d7fdf1b0718d3aa03654454/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26637573746f6d5f7469746c653d7e2532307e2532307e2532304d7925323050726f66696c65253230436f6e747269627574696f6e25323047726170682532307e2532307e2532307e26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765" width="100%">
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img src="https://camo.githubusercontent.com/2595dd8037d7bd85340421441ca2b768fb2f4fa03ed4b69dd9b0d22f117c28ae/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d7472696e696226637573746f6d5f7469746c653d7425323072253230692532306e253230692532306226686964655f626f726465723d74727565267468656d653d6d65726b6f" width="100%">
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
@@ -170,9 +172,7 @@
 
 <!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko">
-<p align="center">
-<img src="https://camo.githubusercontent.com/5542dd2bc71b890a47c925a76eaddb8fd8b4d36d6e594b40e8558ab5f24f85d8/68747470733a2f2f6769746875622d726561646d652d71756f7465732e6865726f6b756170702e636f6d2f71756f74653f7468656d653d6d65726b6f26616e696d6174696f6e3d67726f775f6f75745f696e266c61796f75743d636875726368696c6c26666f6e743d64656661756c74">
+<img src="https://camo.githubusercontent.com/8a7a51548b2c84fc3e34153a4b25983d67f66daf7973920f7c410fcf719f4643/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d766572746963616c267468656d653d6d65726b6f">
 
 <!--💬🃏MEMESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
@@ -184,7 +184,7 @@
 
 <!--🃏MEMEPHOTOS / 🌐https://github.com/techytushar/random-memer -->
 <p align="center">
-<img src="https://camo.githubusercontent.com/f45e5fad7f34a6c4e4d9b12230b5a59eacf798bad8022b6603a5fb08f7a84883/68747470733a2f2f7472696e69626d656d652e6865726f6b756170702e636f6d2f" width="260px"/>
+<img src="https://camo.githubusercontent.com/e7511b66fc9de5b3ef521cd0c7ded0f00916b8585756b9557df41c0e4ea5e2a8/68747470733a2f2f6d656d652d307862632e6f6e72656e6465722e636f6d2f" width="260px"/>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -441,7 +441,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i>: <b>Saturday, December 10th, 2022, 7:21:18 AM</b>
+<i>Last refresh</i>: <b>Friday, December 9th, 2022, 7:33:17 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <!-- 
