@@ -184,7 +184,7 @@
 
 <!--🃏MEMEPHOTOS / 🌐https://github.com/trinib/random-memer -->
 <p align="center">
-<img src="https://camo.githubusercontent.com/449188316386a5bbd945da92aec75cbcaf948636d0d827573364b742839e0f84/68747470733a2f2f72616e646f6d2d6d656d65722e7472696e69622e7265706c2e636f2f" width="260px"/>
+<img src="https://camo.githubusercontent.com/a571a3bb3eac93087909861af43b56c9c20d983c2ac6704f9d9821d74ec866bb/68747470733a2f2f72616e646f6d2d6d656d65722e7472696e69622e7265706c2e636f" width="260px"/>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
