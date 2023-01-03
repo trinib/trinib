@@ -184,7 +184,7 @@
 
 <!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/techytushar/random-memer -->
 <p align="center">
-<img src="https://camo.githubusercontent.com/581cc656f5ad77d3f583f4912f0feac3a7d9740b78e9afd4ecea9fe8c0b261fd/68747470733a2f2f7765622d70726f64756374696f6e2d346130612e75702e7261696c7761792e6170702f" width="260px"/>
+<img src="https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f" width="260px"/>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
