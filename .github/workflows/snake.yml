@@ -11,14 +11,13 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@main
+        uses: Platane/snk/svg-only@v2
 
       - name: Generate
-        uses: Platane/snk@main
+        uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            ./assets/github-contribution-grid-snake.gif
             ./assets/github-contribution-grid-snake.svg
       
       - name: Commit
