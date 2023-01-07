@@ -1,4 +1,4 @@
-name: Snake
+name: Generate Snake
 
 on:
   # run automatically every hour
