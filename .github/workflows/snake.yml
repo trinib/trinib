@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: Platane/snk/svg-only@v2
+        uses: actions/checkout@main
 
       - name: Generate
         uses: Platane/snk@v2
