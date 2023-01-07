@@ -5,5 +5,5 @@ settings:
   readme_file: "./README.md"
   date:
     timezone: "GMT-04:00"
-    text: "<i>Last refresh</i>: <b>{DATE}</b>"
+    text: "<i>Last refresh</i> : <b>{DATE}</b>"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
