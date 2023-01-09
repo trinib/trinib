@@ -3,9 +3,7 @@ settings:
   commit_msg: "٩(̾●̮̮̃̾•̃̾)۶🔥ℝ𝔼𝔸𝔻𝕄𝔼 𝕌ℙ𝔻𝔸𝕋𝔼𝔻🔥٩(̾●̮̮̃̾•̃̾)۶"
   max_lines: 10
   readme_file: "README.md"
-  disabled_events:
-    - "push"
-    - "wiki"
+  disabled_events: [event1, event2, event3]
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT-04:00"
