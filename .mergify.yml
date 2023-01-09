@@ -1,7 +1,8 @@
 pull_request_rules:
   - name: Automatic merge ⬇️ on approval ✔
     conditions:
-      - "#approved-reviews-by>=1"
+      - label=comment
     actions:
-      merge:
-        method: merge
+      comment:
+        message: I 💙 Mergify
+        bot_account: Autobot
