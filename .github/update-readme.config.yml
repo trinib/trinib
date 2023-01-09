@@ -1,11 +1,30 @@
 settings:
-  disabled_events: [event1, event2, event3]
+  username: "trinib"
   commit_msg: "٩(̾●̮̮̃̾•̃̾)۶🔥ℝ𝔼𝔸𝔻𝕄𝔼 𝕌ℙ𝔻𝔸𝕋𝔼𝔻🔥٩(̾●̮̮̃̾•̃̾)۶"
-  max_lines: 0
-  readme_file: "./README.md"
+  max_lines: 10
+  readme_file: "README.md"
+  disabled_events:
+    - "push"
+    - "wiki"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT-04:00"
     text: "<i>Last refresh</i> : <b>{DATE}</b>"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   commit_name: "Schwifty-Bot"
+  commit_email: "116818502+Schwifty-Bot@users.noreply.github.com"
+messages:
+  comments: "![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) Commented on {ID} in {REPO}"
+  issue_opened: "![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) Opened issue {ID} in {REPO}"
+  issue_closed: "![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) Closed issue {ID} in {REPO}"
+  pr_opened: "![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) Opened PR {ID} in {REPO}"
+  pr_closed: "![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) Closed PR {ID} in {REPO}"
+  pr_merged: "![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) Merged PR {ID} in {REPO}"
+  create_repo: "![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) Created new repository {REPO}"
+  fork_repo: "![fork_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) Forked {FORK} from {REPO}"
+  wiki_create: "![wiki_create](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg) Created new wiki page {WIKI} in {REPO}"
+  added_member: "![added_member](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) Became collaborator on {REPO}"
+  changes_approved: "![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) Approved {ID} in {REPO}"
+  changes_requested: "![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) Requested changes on {ID} in {REPO}"
+  new_release: "![new_release](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) Released {ID} in {REPO}"
+  new_star: "![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) Starred {REPO}"
