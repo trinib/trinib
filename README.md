@@ -109,10 +109,10 @@
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinib&layout=compact&theme=merko">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=trinib&layout=compact&theme=merko">
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko">
+<img src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko">
 
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
