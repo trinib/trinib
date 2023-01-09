@@ -1,0 +1,5 @@
+{
+    "schedule": "monthly", // daily|weekly|monthly
+    "minKBReduced": 10 // set reduction threshold (default to 10),
+    "prTitle" : "Compressed images", // set pull request title
+}
