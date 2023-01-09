@@ -1,34 +1,49 @@
-# Compress images on demand (workflow_dispatch), and at 11pm every Sunday (schedule).
-# Open a Pull Request if any images can be compressed.
-name: Compress Images
+name: Compress images
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '00 23 * * 0'
+  pull_request:
     paths:
       - '**.jpg'
       - '**.jpeg'
       - '**.png'
-      - '**.svg'
+      - '**.webp'
+  push:
+    branches:
+      - main
+    paths:
+      - '**.jpg'
+      - '**.jpeg'
       - '**.png'
+      - '**.webp'
+  workflow_dispatch:
+  schedule:
+    - cron: '00 23 * * 0'
 jobs:
   build:
     name: calibreapp/image-actions
     runs-on: ubuntu-latest
+    # Only run on main repo on and PRs that match the main repo.
+    if: |
+      github.repository == 'trinib/trinib' &&
+      (github.event_name != 'pull_request' ||
+       github.event.pull_request.head.repo.full_name == github.repository)
     steps:
-      - name: Checkout Repo
+      - name: Checkout Branch
         uses: actions/checkout@v2
       - name: Compress Images
         id: calibre
         uses: calibreapp/image-actions@main
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
-          compressOnly: true
-      - name: Create New Pull Request If Needed
-        if: steps.calibre.outputs.markdown != ''
+          # For non-Pull Requests, run in compressOnly mode and we'll PR after.
+          compressOnly: ${{ github.event_name != 'pull_request' }}
+      - name: Create Pull Request
+        # If it's not a Pull Request then commit any changes as a new PR.
+        if: |
+          github.event_name != 'pull_request' &&
+          steps.calibre.outputs.markdown != ''
         uses: peter-evans/create-pull-request@v3
         with:
-          title: Compressed Images Nightly
+          title: Auto Compress Images
           branch-suffix: timestamp
-          commit-message: Compressed Images
+          commit-message: Compress Images
           body: ${{ steps.calibre.outputs.markdown }}
