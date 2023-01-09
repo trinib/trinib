@@ -105,18 +105,18 @@
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats && https://github.com/denvercoder1/github-readme-streak-stats -->
 <p align="center">
-<img src="https://github-readme-stats-trinib.vercel.app/api?username=trinib&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://camo.githubusercontent.com/bdbbe173806a903780004f3952bd88e1e968c72041394bf8ca540243e101a4df/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170693f757365726e616d653d7472696e69622673686f775f69636f6e733d74727565267468656d653d6d65726b6f"><img src="https://camo.githubusercontent.com/0166777a9d68e1d62dda37c1e270295af5586759898f304b08b879a129c4a6b3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d7472696e6962267468656d653d6d65726b6f26646174655f666f726d61743d4d2532306a25354225324325323059253544">
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=trinib&layout=compact&theme=merko">
+<a href=""><img src="https://camo.githubusercontent.com/eece962f8d878ed1c84f8d1e7d4e62c39db7f4a55e1f0d1e9b184f1f3491383a/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7472696e6962266c61796f75743d636f6d70616374267468656d653d6d65726b6f">
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko">
+<img src="https://camo.githubusercontent.com/50b330021caf4e44a0c191e91cba50a23d53a37c34070b7141ade20bbaa4d9ed/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d7472696e6962267265706f3d416447756172642d5769726547756172642d556e626f756e642d444e536372797074267468656d653d6d65726b6f">
 
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
-<a href="https://stackoverflow.com/users/14602915/trinib"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark">
+<a href="https://camo.githubusercontent.com/30c44016d9071a2853f6717d5a75e9ee1b97800d7c5ce8be5f5c87c71b0fcdf9/68747470733a2f2f6769746875622d726561646d652d737461636b6f766572666c6f772e76657263656c2e6170702f3f7573657249443d3134363032393135267468656d653d6461726b">
 
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
 <p align="center">
