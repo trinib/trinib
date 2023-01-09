@@ -5,7 +5,8 @@ on:
       - '**.jpg'
       - '**.jpeg'
       - '**.png'
-      - '**.webp'
+      - '**.gif'
+      - '**.svg'
   push:
     branches:
       - main
@@ -13,10 +14,11 @@ on:
       - '**.jpg'
       - '**.jpeg'
       - '**.png'
-      - '**.webp'
+      - '**.gif'
+      - '**.svg'
   workflow_dispatch:
   schedule:
-    - cron: '00 23 * * 0'
+    - cron: '0 0 1 1 *'
 jobs:
   build:
     name: calibreapp/image-actions
