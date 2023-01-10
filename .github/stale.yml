@@ -1,0 +1,15 @@
+# Number of days of inactivity before an issue becomes stale
+daysUntilStale: 0
+# Number of days of inactivity before a stale issue is closed
+daysUntilClose: 0
+# Issues with these labels will never be considered stale
+exemptLabels:
+  - 🍄𝓔👢👢 Ⓜ𝓔
+  - 👑 Winner!
+# Label to use when marking an issue as stale
+staleLabel: Stale crap 💩
+# Comment to post when marking an issue as stale. Set to `false` to disable
+markComment: >
+  Why did the stale issue felt like it was stuck in a rut ? Cause it hadn't been resolved for so long....
+# Comment to post when closing a stale issue. Set to `false` to disable
+closeComment: false
