@@ -81,7 +81,7 @@
 
 <b>FUN FACT🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝If there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second and hold more than 3580 terabytes of memory.❞</i>
+<i>❝The woman who rented her garage to Larry Page and Sergey Brin in 1998 when they were creating Google later became the CEO of YouTube.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
@@ -105,14 +105,14 @@
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats && https://github.com/denvercoder1/github-readme-streak-stats -->
 <p align="center">
-<img src="https://camo.githubusercontent.com/bdbbe173806a903780004f3952bd88e1e968c72041394bf8ca540243e101a4df/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170693f757365726e616d653d7472696e69622673686f775f69636f6e733d74727565267468656d653d6d65726b6f"><img src="https://camo.githubusercontent.com/0166777a9d68e1d62dda37c1e270295af5586759898f304b08b879a129c4a6b3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d7472696e6962267468656d653d6d65726b6f26646174655f666f726d61743d4d2532306a25354225324325323059253544">
+<img src="https://camo.githubusercontent.com/70e87f43f8a76e12f5ee40694c5d52c8b97210ab1eb733b0810ed4f2a02ed061/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170693f757365726e616d653d7472696e6962267468656d653d6d65726b6f26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765"><img src="https://streak-stats.demolab.com?user=trinib&theme=merko&hide_border=true">
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://camo.githubusercontent.com/eece962f8d878ed1c84f8d1e7d4e62c39db7f4a55e1f0d1e9b184f1f3491383a/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7472696e6962266c61796f75743d636f6d70616374267468656d653d6d65726b6f">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://camo.githubusercontent.com/bd8af93740270d66b780b62ebc86b2b8527d3699b64544177d3870bb2d3a4bbb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f26686964655f626f726465723d74727565266c61796f75743d636f6d70616374">
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://camo.githubusercontent.com/50b330021caf4e44a0c191e91cba50a23d53a37c34070b7141ade20bbaa4d9ed/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d7472696e6962267265706f3d416447756172642d5769726547756172642d556e626f756e642d444e536372797074267468656d653d6d65726b6f">
+<img src="https://camo.githubusercontent.com/cc7e2397c8e8cf008cadc936f7ef9b2d8c4d5fc52ba80d85ef13e8dc7d528afa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d7472696e6962267265706f3d416447756172642d5769726547756172642d556e626f756e642d444e536372797074267468656d653d6d65726b6f26686964655f626f726465723d7472756526636172645f77696474683d31303030">
 
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
@@ -442,7 +442,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Sunday, January 15th, 2023, 12:26:09 PM</b>
+<i>Last refresh</i> : <b>Sunday, January 15th, 2023, 11:51:27 AM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <!-- 
