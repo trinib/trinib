@@ -398,7 +398,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-frame=true">
 
 <!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
@@ -442,7 +442,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Sunday, January 15th, 2023, 12:38:17 PM</b>
+<i>Last refresh</i> : <b>Sunday, January 15th, 2023, 11:51:27 AM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <!-- 
