@@ -103,9 +103,12 @@
 <p align="center">
 <a href="https://trinib.wrapped.run"><b>GitHub Wrapped</b></a>
 
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats && https://github.com/denvercoder1/github-readme-streak-stats -->
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://camo.githubusercontent.com/70e87f43f8a76e12f5ee40694c5d52c8b97210ab1eb733b0810ed4f2a02ed061/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170693f757365726e616d653d7472696e6962267468656d653d6d65726b6f26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765"><img src="https://streak-stats.demolab.com?user=trinib&theme=merko&hide_border=true">
+<img src="https://camo.githubusercontent.com/70e87f43f8a76e12f5ee40694c5d52c8b97210ab1eb733b0810ed4f2a02ed061/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170693f757365726e616d653d7472696e6962267468656d653d6d65726b6f26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765">
+
+<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+<img src="https://camo.githubusercontent.com/7074cb836cc324342e882445aa1eddedaae8968087cb962e0374cb0e780aa99c/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d7472696e6962267468656d653d6d65726b6f26686964655f626f726465723d74727565">
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
