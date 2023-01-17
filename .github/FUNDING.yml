@@ -10,4 +10,4 @@ liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-custom: ["https://chat.openai.com/chat", "https://openai.com/dall-e-2/", "https://midjourney.com/home/"]
+custom: ["https://chat.openai.com/chat", "https://openai.com/dall-e-2/", "https://midjourney.com/home/", "https://mattvidpro.com/", "https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain/", "https://huggingface.co/spaces/stabilityai/stable-diffusion/"] 
