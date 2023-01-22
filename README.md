@@ -101,7 +101,7 @@
 
 <!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
 <p align="center">
-<a href="https://trinib.wrapped.run"><b>GitHub Wrapped</b></a>
+<a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a>
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
@@ -116,6 +116,19 @@
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://camo.githubusercontent.com/4c9b0cae58669436ab35bea1fb32ad6b624fce8b46f94ca14d750ac2398fbdcc/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d7472696e6962267265706f3d416447756172642d5769726547756172642d556e626f756e642d444e536372797074267468656d653d6d65726b6f26626f726465725f636f6c6f723d633966663030">
+
+<!--🏆TROPHYGIF-->
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+ </div>
 
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
@@ -400,10 +413,6 @@ Join the Word Cloud Board :cloud: :pencil2:
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 </h4>
 
-<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-frame=true">
-
 <!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
  
@@ -446,7 +455,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Sunday, January 22nd, 2023, 9:49:10 AM</b>
+<i>Last refresh</i> : <b>Sunday, January 22nd, 2023, 9:23:05 AM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <!-- 
