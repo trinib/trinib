@@ -1,9 +1,1 @@
-1: @benzlokzik
-2: @benzlokzik
-2: @benzlokzik
-4: @lulunac27a
-3: @AlbaDev1
-6: @asmraihan
-4: @TomfromBerlin
-5: @Cophhy
-Start game: @Cophhy
+Start game: @ivey
