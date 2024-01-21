@@ -128,7 +128,7 @@
 
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
-<a href="https://camo.githubusercontent.com/30c44016d9071a2853f6717d5a75e9ee1b97800d7c5ce8be5f5c87c71b0fcdf9/68747470733a2f2f6769746875622d726561646d652d737461636b6f766572666c6f772e76657263656c2e6170702f3f7573657249443d3134363032393135267468656d653d6461726b">
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark">
 
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
@@ -447,7 +447,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Sunday, January 21st, 2024, 8:21:50 AM</b>
+<i>Last refresh</i> : <b>Sunday, January 21st, 2024, 7:52:17 AM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <!-- 
