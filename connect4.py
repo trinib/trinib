@@ -23,9 +23,8 @@ class connect4:
             self.valid = range(len(self.grid))
 
     def is_game_over(self):
-        if os.path.exists("games/current.p"):
-            return False
-        return True
+        return not os.path.exists("games/current.p")
+    
     def save_currentgame(self):
         pickle.dump({'grid': self.grid, 'plays': self.whosTurn, 'player': self.player,
                      'rounds': self.rounds}, open("games/current.p", "wb"))
@@ -48,7 +47,7 @@ class connect4:
     def iswonornot(self):
         for row in range(len(self.grid)):
             for col in range(len(self.grid[0])):
-                if self.grid[row][col] != 0:
+                if self.grid[row][col]:
                     color = self.grid[row][col]
                     if self.recur_checker(self.grid, SOUTH, row + 1, col, color, 3) or \
                             self.recur_checker(self.grid, EAST, row, col + 1, color, 3) or \
@@ -59,7 +58,7 @@ class connect4:
         return False
 
     def recur_checker(self, grid, direction, row, col, color, howmanyleft):
-        if howmanyleft == 0:
+        if not howmanyleft:
             return True
         if (row >= len(grid)) or (col >= len(grid[0])) or (row < 0) or (col < 0):
             return False
@@ -81,7 +80,7 @@ class connect4:
     def has_space_left(self):
         for row in self.grid:
             for col in row:
-                if col == 0:
+                if not col:
                     return True
         return False
 
@@ -94,7 +93,7 @@ class connect4:
             return self.whosTurn, self.valid_moves(), 4
 
         for row in self.grid:
-            if row[x] == 0:
+            if not row[x]:
                 self.grid[self.grid.index(row)][x] = self.whosTurn
                 break
 
@@ -116,7 +115,7 @@ class connect4:
     def valid_moves(self):
         valid = []
         for i in range(len(self.grid[0])):
-            if self.grid[-1][i] == 0:
+            if not self.grid[-1][i]:
                 valid.append(i + 1)
         self.valid = valid
         return valid
