@@ -99,9 +99,13 @@
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
-<!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
+<!--🌯GITHUBWRAPPED / 🌐WEBSITE: https://github.com/neat-run/wrapped -->
 <p align="center">
 <a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a>
+
+<!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/ironmaniiith/Github-profile-name-writer -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
@@ -148,7 +152,7 @@
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
 
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
@@ -449,7 +453,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Wednesday, January 31st, 2024, 9:44:36 AM</b>
+<i>Last refresh</i> : <b>Wednesday, January 31st, 2024, 9:32:13 AM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--🤝CONTRIBUTOR IMAGE / 🌐WEBSITE: https://github.com/lacolaco/contributors-img --> 
