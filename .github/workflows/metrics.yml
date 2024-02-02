@@ -27,3 +27,7 @@ jobs:
           plugin_topics_sort: stars
           plugin_topics_mode: icons
           plugin_topics_limit: 15
+          plugin_people: yes
+          plugin_people_types: followers
+          plugin_people_limit: 800
+          plugin_people_size: 28
