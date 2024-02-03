@@ -316,14 +316,14 @@ When you click on a link it will submit a new issue with the desired move, creat
 
 <h4 align="left">
 
-Here you can play Connect4. Just click a number under the grid to move. It's <!-- BEGIN TURN2 -->red<!-- END TURN2 --> turn.
+Here you can play Connect4. Just click a number under the grid to move. It's <!-- BEGIN TURN2 -->yellow<!-- END TURN2 --> turn.
 
 <!-- BEGIN CONNECT4 BOARD -->
 |   | 1 | 2 | 3 | 4 | 5 | 6 | 7 |   |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
+|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/red.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/red.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
@@ -338,11 +338,11 @@ Here you can play Connect4. Just click a number under the grid to move. It's <!-
 
 | Move | Author |
 | :--: | :----- |
+| `5` |  [ @BrunnerLivio](https://github.com/BrunnerLivio) | |
 | `5` |  [ @RutsuKun](https://github.com/RutsuKun) | |
 | `3` |  [ @lulunac27a](https://github.com/lulunac27a) | |
 | `5` |  [ @vitheshshetty00](https://github.com/vitheshshetty00) | |
 | `2` |  [ @TAKE72K](https://github.com/TAKE72K) | |
-| `3` |  [ @EnginKARATAS](https://github.com/EnginKARATAS) | |
 
 <!-- END LAST MOVES2 -->
 </details>
