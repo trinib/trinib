@@ -191,7 +191,7 @@
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?theme=merko&border=true">
 <p align="center">
-<img src="https://github-readme-daily-quotes-trinib.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=merienda"><br><br>
+<img src="https://github-readme-daily-quotes-trinib.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker"><br><br>
 
 <!--💬🃏MEMESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
