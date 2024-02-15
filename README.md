@@ -109,7 +109,7 @@
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats-trinib.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
+<img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
 
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
 <img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=trinib&theme=merko&border=599200">
