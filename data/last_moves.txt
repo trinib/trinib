@@ -1,3 +1,4 @@
+e2e4: @2noScript
 d7d5: @the1Riddle
 g5d2: @the-1Riddle
 f7f6: @Nauseouswave
