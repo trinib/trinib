@@ -81,7 +81,7 @@
 
 <b>FUN FACT EVERYDAY🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.❞</i>
+<i>❝Facebook has over a billion users. If it was a country it would be the third largest in the world.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
