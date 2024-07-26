@@ -1,3 +1,4 @@
+d3b5: @daemon-node-byte
 a8a4: @huuquyet
 d1f3: @uladkaminski
 c6d5: @GabiBrawl
