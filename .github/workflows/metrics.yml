@@ -17,9 +17,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_message: 📈GitHub action updated profile metrics📉
+          committer_message: "GitHub action updated profile metrics"
           user: trinib
-          base: header, activity, repositories
+          base: header, activity, community, repositories, metadata
+          filename: my-metrics.svg
           plugin_fortune: yes
           plugin_introduction: yes
           plugin_activity: yes
