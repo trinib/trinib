@@ -14,9 +14,9 @@ jobs:
         uses: trinib/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_TOKEN2 }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_message: 📈GitHub action updated profile metrics📈
-          base: header, activity, community, repositories
+          base: "header, activity, community, repositories"
           plugin_fortune: yes
           plugin_introduction: yes
           plugin_activity: yes
