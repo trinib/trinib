@@ -17,7 +17,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN2 }}
+          committer_token: ${{ secrets.METRICS_TOKEN2 }}
           committer_message: 📈GitHub action updated profile metrics📈
           user: trinib
           base: header, activity, community, repositories
