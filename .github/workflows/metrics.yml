@@ -14,12 +14,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_message: "GitHub action updated profile metrics"
+          committer_token: ${{ secrets.GITHUB_TOKEN2 }}
+          committer_message: 📈GitHub action updated profile metrics📈
           user: trinib
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           filename: my-metrics.svg
           plugin_fortune: yes
           plugin_introduction: yes
