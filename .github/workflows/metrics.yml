@@ -4,24 +4,19 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
 jobs:
+
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
-    permissions:
-      contents: write
     steps:
-      - uses: trinib/metrics@master
+    
+      - name: Personal metrics
+        uses: trinib/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN2 }}
           committer_message: 📈GitHub action updated profile metrics📈
-          user: trinib
           base: header, activity, community, repositories
-          filename: my-metrics.svg
           plugin_fortune: yes
           plugin_introduction: yes
           plugin_activity: yes
