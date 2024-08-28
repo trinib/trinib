@@ -203,7 +203,7 @@
 
 <!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/techytushar/random-memer -->
 <p align="center">
-<img src="https://meme-display-git-main-trinibs-projects.vercel.app" width="260px"/>
+<img src="https://meme-display.vercel.app/api/meme" width="260px"/>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
