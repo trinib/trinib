@@ -193,7 +193,7 @@
 <p align="center">
 <img src="https://github-readme-quotes-trinibs-projects.vercel.app/quote?theme=merko&layout=churchill&animation=grow_out_in&font=Architect">
 <p align="center">
-<img src="https://github-readme-daily-quotes-trinib.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker"><br><br>
+<img src="https://github-readme-daily-quotes-trinibs-projects.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker"><br><br>
 
 <!--💬🃏MEMESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
