@@ -81,7 +81,7 @@
 
 <b>FUN FACT EVERYDAY🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There is a programming language called INTERCAL which has keywords like IGNORE, PLEASE , FORGET. If you don’t use PLEASE enough times while coding, Compiler rejects the code.❞</i>
+<i>❝The term “World Wide Web” was invented by Tim Berners in 1990.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
@@ -123,11 +123,11 @@
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+<img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+<img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
 
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
@@ -146,7 +146,7 @@
 <img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trinib&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=trinib&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
@@ -177,7 +177,7 @@
 
 <!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
+<img src="https://readme-jokes-trinibs-projects.vercel.app/api" alt="Jokes Card" width="400">
 
 <!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
@@ -201,9 +201,9 @@
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30">
 
-<!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/techytushar/random-memer -->
+<!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/trinib/Subreddit-Memes -->
 <p align="center">
-<img src="https://subreddit-memes.vercel.app/api/meme" width="400px"/>
+<img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px"/>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -445,7 +445,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Friday, August 30th, 2024, 9:41:36 PM</b>
+<i>Last refresh</i> : <b>Friday, August 30th, 2024, 7:56:23 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--🤝CONTRIBUTOR IMAGE / 🌐WEBSITE: https://github.com/lacolaco/contributors-img --> 
