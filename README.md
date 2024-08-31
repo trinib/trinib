@@ -103,7 +103,7 @@
 <!--<p align="center"> -->
 <!--<a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a> -->
 
-<!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/ironmaniiith/Github-profile-name-writer -->
+<!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/yogeshwaran01/github-stats-terminal-style -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
 
