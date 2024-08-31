@@ -1,0 +1,7 @@
+*.sh linguist-detectable=true
+*.md linguist-detectable=true
+*.py linguist-detectable=true
+*.ini linguist-detectable=true
+*.yml linguist-detectable=true
+*.txt linguist-detectable=false
+* text=auto
