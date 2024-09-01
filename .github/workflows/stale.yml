@@ -22,9 +22,5 @@ jobs:
           days-before-issue-close: 5
           days-before-pr-close: 10
           exempt-issue-labels: '🍄𝓔👢👢 Ⓜ𝓔,👑 Winner!'
-          stale-pr-label: 'no-pr-activity'
-          exempt-pr-labels: 'awaiting-approval,work-in-progress'
-          exempt-issue-milestones: 'future,alpha,beta'
-          exempt-pr-milestones: 'bugfix,improvement'
           exempt-issue-assignees: 'trinib'
           exempt-pr-assignees: 'trinib'
