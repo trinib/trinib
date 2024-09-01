@@ -5,11 +5,11 @@ on:
     - cron: '30 1 * * *'
 permissions:
   contents: read
+  issues: write
+  pull-requests: write
+  actions: write
 jobs:
   stale:
-    permissions:
-      issues: write
-      pull-requests: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/stale@v9
