@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 248 users
+                            Followed by 249 users
                         </div>
                     </section>
                     <section>
@@ -359,10 +359,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    248 followers
+                    249 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABAUDBgABAgf/xAApEAABAwIEAwkAAAAAAAAAAAABAAIDBBEFEiFxEzFBIiMyQlFhYoGR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQUG/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECAwQRQSH/2gAMAwEAAhEDEQA/APXTPpqR+pWzHoTIWmKUa9bLJnOB6pViNFx7ywO4cvvyK2YVrpzdlsuFhgxSCTTMRuFMK6Lyzx23ColOHw1GetEhkHh9EydIHG/ZROpALJfQ6okuboQTNcLjUHkgKh75Ocj/AKK4ge9oFnE7pqQly9HkbopI++yW+ZCGdFR5jlmZbdQhxda61lCmi97P/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABwgDBQYCBP/EACsQAAIBAgUDAgYDAAAAAAAAAAECAwQRAAUGEiEHEzEUQRUiI1FhgUJxof/EABYBAQEBAAAAAAAAAAAAAAAAAAQAAv/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMEIRESIjFB/9oADAMBAAIRAxEAPwBkTnNNPRd6CRXVhcMpuDhR26zfDetmZ51P36jJ1jegVILMTGhurAEgG7An24b9YOWpDU01PXwq8lO1ZtjWoRCVSSQ7Lj2uAV82BI45xiNAdNqXQ2nM+rMzFNmpfuyg9oP3II4yyrtPAYkMLXsSR5sMRvVVBX7IY7FiG9CbDQHXnTOrK9aBPV0VW1tq1UYCtyBwyki9yAL25NucFX4nT/fCi670bTZZk2W9QOnsMkEFSqpVZXYsrCQ7Slhza52soNubrbHenl6n5rlwnzOvzOnlRzEq9mNSVXi55Xm9+SObY0jq45ImbK3r0DGKNXFUq9FXo1NPIpQxyeHuP4N4b+vPuQMUem6TMqF879U3rqWacyRIH+oj2sy2awCmystiLbv2SNmuW0tXTMlRCkiHyrAEH9YHesKSHJaJ62mQTNHtURVIEi2P5PzAD2AIH4wazH6qWU6iqsnswVxuerTlPBS6bFHk+XxZew3n0pX5YnZiSSPtuN7WFx4t7S0enoaemSJqqqkK3u3c2XJNybKLeST/AJiTTU4noi4hhi3ENtiQKOVHti3wRXIOjHNWjjyGp//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFCP/EAC0QAAEDAgUDAwIHAAAAAAAAAAECAwQFEQAGEiExBxNBFDJhcaEzUYGSorHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgQFA//EABsRAAIDAQEBAAAAAAAAAAAAAAECAAQRAyES/9oADAMBAAIRAxEAPwBb0+yJk+OfXT6hHrFRZPaUGFFbLZ5sLe7nnjFEeYyqphcdylwltEWKTCuFD9u+CeQ6C7R8ktQWSVyS2XHC3bdxe4G+3kDG9l2LPdY7lYiw47+pSApkEXt+YP8Apxh1ss7H2GiKBMWt9OqFLpsh/KTLcaQ1uWWvw3Dzax4OJMpOhSkrulSTYjHQcV9MeqNusk9h0htyyrhW9gR9Dt+uIV1WYNIz3U2Yx0NOqTIA+VpBP3vh+hZLaGiVquGOiW7J02FIE2C24gyIruhSfNrC392wglt9yK42glBIsFDkfTAX07VMbjy4SA1IfSp51Y5Wu53OBb/VDMKYj1jD1pJAX2d/PzbxiXzX6GSnmCLXGKblOHP9RVHQ053HSypzXZdiva+99rkcXueb4lvViooqWdJEhCVBKmI5Cb+27SVW/lie5mq8+rVR6RUZTsl3UUguG+kfGNJOp9KVvuLcXpCdSjc2AAH2GK1Kn8g+xHv0zyf/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUDBgcA/8QALxAAAgECAwQJBAMAAAAAAAAAAQMCBAUAESEGEhNBByIjMTJRcYGRFEJhwRWhsf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAbEQACAwADAAAAAAAAAAAAAAAAAQIDERIhQf/aAAwDAQACEQMRAD8A1sr2fuFrXd7k5LkUvX4wYQFnyIB79Rp+cC0HSPbbhWspeDUrGc4B2WZjqQCRyHzipdMlhpLalFXQJ4M6vrvUjwb68iGCAGpBI+MPdiNmbe61010dJbfqVhu6obg9z3kjGk7cCupM6G117lTMRRL4k1nLeksmZ9OXvjRqBtSukVF8oyZlqZHXAtpigKUFqgtUNd0ZenLEsWcccRQDFy60ZeYOv7xKs5eA4qPQtv1so70iCa6JOWfDkDkYH8YqdFZrxYK0ptzl1FHI6hhyAHmRy9sWatZKK1EHWLlZe8xE/wBE4kqj2sPTFTWrBweC66Xc0dmrCteTZs4SyNO/7/nP4wyslVL+Io/s7KI3fLIZfrAtzp11OztYWx1VEThlyOBrNOQtNIN4+A/6cOKSWESes//Z" width="28" height="28" alt="" />
@@ -733,7 +734,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
