@@ -229,28 +229,22 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.46mb of code in 1545 edited files across 1293 commits</small>
+                <small>estimation from 3.41mb of code in 1439 edited files across 1193 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.4470403746982" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="132.4470403746982" y="0" width="106.7676408313271" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="239.21468120602532" y="0" width="74.47852082635322" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="313.69320203237857" y="0" width="65.28687830943687" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="378.9800803418154" y="0" width="31.939567480562186" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="410.9196478223776" y="0" width="31.548704203265483" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="442.46835202564307" y="0" width="12.625201631705657" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.0935536573487" y="0" width="4.90644634265128" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="122.58579048601058" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="122.58579048601058" y="0" width="85.51287898316511" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="208.0986694691757" y="0" width="83.91846285023101" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="292.0171323194067" y="0" width="74.95944954492278" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="366.9765818643295" y="0" width="36.671571057484485" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="403.648152921814" y="0" width="36.22279946858083" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="439.8709523903948" y="0" width="14.49568717653824" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.36663956693303" y="0" width="5.633360433066963" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Ruby
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
@@ -262,6 +256,12 @@
                             <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Vue
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Ruby
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
