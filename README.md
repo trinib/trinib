@@ -81,7 +81,7 @@
 
 <b>FUN FACT EVERYDAY🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝CPU manufacturing is so unpredictable that every chip must be tested since the majority of finished chips are defective. Those that survive are assigned a model number and price reflecting their maximum safe performance.❞</i>
+<i>❝There are more than 5000 new computer viruses are released every month.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
