@@ -81,7 +81,7 @@
 
 <b>FUN FACT EVERYDAY🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
+<i>❝The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
