@@ -81,7 +81,7 @@
 
 <b>FUN FACT EVERYDAY🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are around  3.58 billion internet users worldwide as of 2017 according to statista.❞</i>
+<i>❝No human has won a tournament standard chess game against a high spec computer since 2005.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
